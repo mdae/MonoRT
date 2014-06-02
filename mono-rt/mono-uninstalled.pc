@@ -1,0 +1,6 @@
+Name: Mono
+Description: Mono Runtime
+Version: 2.6.1
+Requires: glib-2.0 gthread-2.0
+Libs: -L/home/dev/Desktop/mono-rt/mono/mini/.libs -Wl,--export-dynamic -lmono -lpthread -lrt  -ldl -lpthread -lm
+Cflags: -I/home/dev/Desktop/mono-rt -I/home/dev/Desktop/mono-rt/mono -D_REENTRANT

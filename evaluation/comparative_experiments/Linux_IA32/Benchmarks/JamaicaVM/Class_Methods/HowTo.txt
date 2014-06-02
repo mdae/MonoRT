@@ -1,0 +1,38 @@
+Build class files from source code:
+===================================
+
+$: jamaicac -useTarget targetlinux-x86 -d classes/ NHRT1000ClassMethods.java
+
+
+Build JNI header for timer library:
+===================================
+
+$: cd /your/path/Class_Methods/classes
+$: jamaicah NHRT1000ClassMethods
+
+Build timer library:
+====================
+
+- Edit the file 'timer.c', so that it includes the header
+file 'NHRT1000ClassMethods.h'. Ensure that the function name matches
+that in the header file.
+
+- Run the Makefile.
+
+Build the executable (AOT compilation):
+=======================================
+
+$: jamaicabuilder -target=targetlinux-x86 -cp=/your/path/Class_Methods/classes/ -lazy=false -compile NHRT1000ClassMethods
+
+Run benchmark:
+==============
+
+$: export JAMAICAVM_IMMORTALSIZE=4M JAMAICAVM_LAZY=false JAMAICA_SCHEDULING=OTHER
+
+- JIT mode:
+
+$: chrt 79 jamaicavm -cp /your/path/Class_Methods/classes/ NHRTClass1000Methods $(date +%s::%N)
+
+- AOT mode:
+
+$: chrt 79 ./NHRT1000ClassMethods $(date +%s::%N)

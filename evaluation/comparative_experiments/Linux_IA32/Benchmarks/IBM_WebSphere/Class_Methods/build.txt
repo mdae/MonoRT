@@ -1,0 +1,49 @@
+class-Files bauen:
+==================
+
+javac -Xrealtime NHRT1000ClassMethods.java
+
+Archiv erzeugen:
+================
+
+jar -cvf NHRT1000ClassMethods.jar *.class
+
+JNI-Header bauen:
+=================
+
+javah NHRT1000ClassMethods
+
+Shared Libs bauen:
+==================
+
+g++ -fPIC -DPIC -I/usr/local/jamaica/target/linux-x86/include/ -c -m32 -O0 timer.c
+g++ -shared -I/usr/local/jamaica/target/linux-x86/include/ -o libtimer.so -W-soname timer.o
+
+
+Shared Cache bauen:
+===================
+
+- ohne Libs:
+
+admincache -Xrealtime -populate -noisy -aot /home/user/Desktop/Eval_WebSphere_2/1000ClassMethods/NHRT1000ClassMethods.jar -cacheName NHRT1000ClassMethodsCache -classpath /home/user/Desktop/Eval_WebSphere_2/1000ClassMethods/NHRT1000ClassMethods.jar -printvmargs
+
+- mit Libs:
+
+admincache -Xrealtime -populate -noisy -aot /home/user/Desktop/Eval_WebSphere_2/1000ClassMethods/NHRT1000ClassMethods.jar /home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/i386/realtime/jclSC160/vm.jar /home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/rt.jar /home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/i386/realtime/jclSC160/realtime.jar /home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/java.util.jar /home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/security.jar -cacheName NHRT1000ClassMethodsCacheLibs -classpath /home/user/Desktop/Eval_WebSphere_2/1000ClassMethods/NHRT1000ClassMethods.jar:/home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/i386/realtime/jclSC160/vm.jar:/home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/rt.jar:/home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/i386/realtime/jclSC160/realtime.jar:/home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/java.util.jar:/home/user/Desktop/ibm/ibm-wrt-i386-60/jre/lib/security.jar -printvmargs
+
+Executable ausführen:
+=====================
+
+export LD_LIBRARY_PATH=.
+
+- JIT:
+
+chrt 79 java -Xrealtime -classpath /home/user/Desktop/Eval_WebSphere_2/1000ClassMethods/NHRT1000ClassMethods.jar NHRT1000ClassMethods $(date +%s::%N)
+
+- AOT (ohne Libs):
+
+chrt 79 java -Xrealtime -Xshareclasses:name=NHRT1000ClassMethodsCache -classpath /home/user/Desktop/Eval_WebSphere_2/1000ClassMethods/NHRT1000ClassMethods.jar -Xaot NHRT1000ClassMethods $(date +%s::%N)
+
+
+- AOT (mit Libs):
+

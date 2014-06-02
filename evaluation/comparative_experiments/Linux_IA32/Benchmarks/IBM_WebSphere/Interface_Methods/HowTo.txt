@@ -1,0 +1,45 @@
+Build class files from source code:
+===================================
+
+$: javac -Xrealtime NHRT1000MethodsInterface.java
+
+Create JAR-archive:
+===================
+
+$: jar -cvf NHRT1000MethodsInterface.jar *.class
+
+Build JNI header for timer library:
+===================================
+
+$: javah NHRT1000MethodsInterface
+
+Build timer library:
+====================
+
+- Edit the file 'timer.c', so that it includes the header
+file 'NHRT1000MethodsInterface.h'. Ensure that the function name matches
+that in the header file.
+
+- Edit the Makefile so that it includes the correct path to
+the installation of IBM WebSphere and run the Makefile.
+
+Build the shared cache (AOT compilation):
+=========================================
+
+$: admincache -Xrealtime -populate -noisy -aot /your/path/Interface_Methods/NHRT1000MethodsInterface.jar -cacheName NHRT1000MethodsInterfaceCache -classpath /your/path/Interface_Methods/NHRT1000MethodsInterface.jar -printvmargs
+
+Run benchmark:
+==============
+
+- Ensure that the environment variable PATH includes IBM WebSphere, e.g., by issuing
+
+$: export LD_LIBRARY_PATH=.
+$: export PATH=/path/to/WebSphere/ibm/ibm-wrt-i386-60/jre/bin:/ath/to/WebSphere/ibm/ibm-wrt-i386-60/bin:$PATH 
+
+- JIT mode:
+
+$: chrt 79 java -Xrealtime -classpath /your/path/Interface_Methods/NHRT1000Methods.jar NHRT1000MethodsInterface $(date +%s::%N)
+
+- AOT mode:
+
+chrt 79 java -Xrealtime -Xshareclasses:name=NHRT1000MethodsInterfaceCache -classpath /your/path/Interface_Methods/NHRT1000MethodsInterface.jar -Xaot NHRT1000MethodsInterface $(date +%s::%N)

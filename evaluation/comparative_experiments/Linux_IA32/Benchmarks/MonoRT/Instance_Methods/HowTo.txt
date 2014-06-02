@@ -1,0 +1,64 @@
+Build executable from source code:
+==================================
+
+$: cd /your/path/Instance_Methods/
+$: mcs 1000Methods.cs
+
+AOT compilation:
+================
+
+$: mono --aot -O=-inline /your/path/Instance_Methods/1000Methods.exe
+$: mono --aot -O=-inline /path/to/monort/lib/mono/1.0/mscorlib.dll
+
+Run benchmark:
+==============
+
+- Ensure that the library 'MonoRT.dll' and the timer library 'libtimer.so'
+  are in the working directory
+
+- JIT mode:
+
+$: chrt 79 mono -O=-inline,-aot 1000Methods.exe results_JIT.txt $(date +%s::%N)
+
+- AOT mode:
+
+$: chrt 79 mono -O=-inline,aot 1000Methods.exe results_AOT.txt $(date +%s::%N)
+
+- Pre-Compilation mode:
+
+$: chrt 79 mono -O=-inline,-aot --prejit 1000Methods.exe results_PreCompilation.txt $(date +%s::%N)
+
+- JIT-based Pre-Patch mode:
+
+$: chrt 79 mono -O=-inline,-aot --prepatch 1000Methods.exe results_JIT_PrePatch.txt $(date +%s::%N)
+
+- AOT-based Pre-Patch mode:
+
+$: chrt 79 mono -O=-inline,aot --prepatch 1000Methods.exe results_AOT_PrePatch.txt $(date +%s::%N)
+
+
+Create reduced set:
+===================
+
+-  Create a reduced set of the application and the core library in
+   directory 'outDir'. Do not include region specific assemblies
+   (option '-l none')
+
+$: cd /your/path/Instance_Methods/
+$: mkdir reducedSet
+$: monolinker -out reducedSet/ -c link -l none -a 1000Methods.exe
+
+AOT compilation of reduced set:
+===============================
+
+$: cd /your/path/Instance_Methods/reducedSet/
+$: export MONO_PATH=.
+$: mono --aot -O=-inline 1000Methods.exe
+$: mono --aot -O=-inline mscorlib.dll
+
+Run benchmark of reduced set:
+=============================
+
+- The benchmarks are run like described above. Ensure that the
+environment variable MONO_PATH is set to the directory which
+includes the reduces core library, e.g., the working directory.

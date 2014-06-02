@@ -1,0 +1,30 @@
+Build executable from source code: (example)
+=================================
+
+$: csc /out:C:\Users\dev\Instance_Methods\1000Methods.exe C:\Users\dev\Instance_Methods\1000Methods.cs
+
+Run benchmark in Reflection mode:
+=================================
+
+$: cd C:\Users\dev\Instance_Methods\
+
+- Ensure that the assembly 'AssemblyPrepare.exe' is in the working directory
+
+$: start /B /realtime /wait AssemblyPrepare.exe C:\Users\dev\Instance_Methods\1000Methods.exe %time% %date%
+
+
+AOT compilation:
+================
+
+$: ngen install C:\Users\dev\Instance_Methods\1000Methods.exe
+
+Run benchmark in AOT mode:
+==========================
+
+$: cd C:\Users\dev\Instance_Methods\
+$: start /B /realtime /wait 1000Methods.exe %time% %date%
+
+Remove assembly from AOT cache:
+===============================
+
+$: ngen uninstall C:\Users\dev\Instance_Methods\1000Methods.exe

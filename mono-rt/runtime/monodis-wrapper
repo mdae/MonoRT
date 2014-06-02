@@ -1,0 +1,6 @@
+#! /bin/sh
+r='/home/dev/Desktop/mono-rt'
+MONO_CFG_DIR='/home/dev/Desktop/mono-rt/runtime/etc'
+MONO_SHARED_DIR=$r/runtime
+export MONO_CFG_DIR MONO_SHARED_DIR
+exec "$r/libtool" --mode=execute -dlopen "$r/mono/mini/libmono.la" "$r/mono/dis/monodis" "$@"

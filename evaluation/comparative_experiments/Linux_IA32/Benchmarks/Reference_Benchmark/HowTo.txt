@@ -1,0 +1,15 @@
+Build executables from source code:
+==================================
+
+$: make
+
+Run benchmark:
+==============
+
+- simple variant:
+
+$: chrt 79 ./simple_variant.out
+
+- complex variant:
+
+$: chrt 79 ./complex_variant.out

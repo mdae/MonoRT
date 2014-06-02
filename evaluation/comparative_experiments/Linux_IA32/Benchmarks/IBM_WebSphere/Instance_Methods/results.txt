@@ -1,0 +1,4000 @@
+Startuptime:	2693
+427	427	459	464
+Startuptime:	2877
+437	443	502	435
+Startuptime:	3218
+438	437	436	461
+Startuptime:	3319
+493	434	435	465
+Startuptime:	2752
+438	441	435	476
+Startuptime:	2869
+438	434	435	434
+Startuptime:	3469
+463	433	467	462
+Startuptime:	2777
+443	475	436	441
+Startuptime:	2743
+498	441	432	439
+Startuptime:	2752
+475	469	464	479
+Startuptime:	3277
+434	462	475	433
+Startuptime:	3185
+427	467	434	434
+Startuptime:	2819
+432	456	451	432
+Startuptime:	3135
+435	439	436	434
+Startuptime:	3010
+507	466	438	469
+Startuptime:	2935
+443	439	470	438
+Startuptime:	3444
+459	433	465	432
+Startuptime:	3160
+467	460	470	429
+Startuptime:	2793
+442	434	435	470
+Startuptime:	3494
+440	446	475	441
+Startuptime:	2952
+467	437	432	439
+Startuptime:	3277
+438	457	428	437
+Startuptime:	3519
+458	428	459	427
+Startuptime:	3035
+475	482	467	479
+Startuptime:	3219
+478	461	477	438
+Startuptime:	3210
+433	445	437	469
+Startuptime:	2952
+433	441	437	462
+Startuptime:	3110
+443	461	463	460
+Startuptime:	2885
+441	439	467	434
+Startuptime:	3435
+439	437	459	434
+Startuptime:	3360
+432	458	420	461
+Startuptime:	3027
+468	425	432	467
+Startuptime:	2893
+465	438	461	428
+Startuptime:	2844
+437	439	436	435
+Startuptime:	3777
+464	479	432	460
+Startuptime:	3027
+433	475	511	443
+Startuptime:	3960
+432	496	459	466
+Startuptime:	3377
+474	435	466	474
+Startuptime:	2935
+463	434	457	463
+Startuptime:	2852
+464	442	460	437
+Startuptime:	3127
+469	455	442	458
+Startuptime:	2885
+430	434	481	460
+Startuptime:	2860
+439	439	477	443
+Startuptime:	3368
+462	436	442	462
+Startuptime:	3069
+431	435	469	467
+Startuptime:	2876
+440	439	440	433
+Startuptime:	3527
+442	436	435	465
+Startuptime:	3685
+431	436	452	430
+Startuptime:	2952
+442	471	466	467
+Startuptime:	2952
+458	432	430	430
+Startuptime:	2977
+431	473	437	435
+Startuptime:	2810
+464	437	454	467
+Startuptime:	3277
+458	463	457	457
+Startuptime:	3302
+432	436	436	434
+Startuptime:	3577
+434	433	457	470
+Startuptime:	3552
+435	435	460	476
+Startuptime:	2910
+460	443	459	434
+Startuptime:	2969
+431	438	436	469
+Startuptime:	2927
+441	440	460	446
+Startuptime:	3944
+438	439	430	471
+Startuptime:	3027
+470	474	464	470
+Startuptime:	2777
+444	437	426	435
+Startuptime:	3085
+441	438	440	453
+Startuptime:	3477
+457	462	470	432
+Startuptime:	3494
+436	440	436	437
+Startuptime:	2960
+438	434	472	463
+Startuptime:	3277
+487	434	443	468
+Startuptime:	3127
+466	433	435	465
+Startuptime:	3377
+452	433	467	437
+Startuptime:	2877
+435	462	454	497
+Startuptime:	3410
+466	461	509	463
+Startuptime:	3027
+438	434	467	463
+Startuptime:	3652
+446	466	467	426
+Startuptime:	3502
+433	469	467	461
+Startuptime:	3327
+451	451	470	451
+Startuptime:	3110
+431	463	453	456
+Startuptime:	2768
+464	465	452	465
+Startuptime:	3760
+440	465	461	434
+Startuptime:	2877
+430	429	449	471
+Startuptime:	2860
+436	433	456	434
+Startuptime:	3110
+433	463	457	434
+Startuptime:	3644
+477	459	432	464
+Startuptime:	3452
+464	437	436	459
+Startuptime:	3018
+422	437	462	433
+Startuptime:	3285
+476	442	466	439
+Startuptime:	3360
+435	430	432	460
+Startuptime:	2994
+440	462	459	461
+Startuptime:	3302
+434	433	432	430
+Startuptime:	2802
+465	438	469	467
+Startuptime:	2835
+435	463	473	438
+Startuptime:	2977
+434	466	465	459
+Startuptime:	3060
+472	479	439	460
+Startuptime:	3427
+428	460	455	430
+Startuptime:	3293
+440	466	437	439
+Startuptime:	3310
+428	437	438	458
+Startuptime:	3327
+440	440	470	440
+Startuptime:	3602
+488	463	463	465
+Startuptime:	3535
+469	438	461	465
+Startuptime:	2827
+444	462	438	473
+Startuptime:	2835
+507	474	442	435
+Startuptime:	3185
+439	461	440	436
+Startuptime:	3027
+442	460	458	434
+Startuptime:	4010
+465	433	450	433
+Startuptime:	3327
+433	431	439	439
+Startuptime:	3119
+453	438	440	437
+Startuptime:	3335
+441	437	464	478
+Startuptime:	3327
+435	470	437	435
+Startuptime:	3227
+441	441	440	473
+Startuptime:	3802
+458	439	442	439
+Startuptime:	2835
+441	474	477	469
+Startuptime:	2960
+433	438	436	436
+Startuptime:	3485
+461	462	435	439
+Startuptime:	3577
+458	442	500	435
+Startuptime:	3085
+462	465	430	432
+Startuptime:	2968
+439	464	469	463
+Startuptime:	3018
+435	476	461	433
+Startuptime:	3386
+438	459	463	432
+Startuptime:	3685
+452	430	463	464
+Startuptime:	3352
+460	439	431	455
+Startuptime:	3552
+434	436	433	429
+Startuptime:	2810
+426	434	428	473
+Startuptime:	3477
+456	435	435	433
+Startuptime:	2977
+438	474	431	433
+Startuptime:	2952
+476	466	471	460
+Startuptime:	3235
+444	464	429	462
+Startuptime:	3002
+439	464	432	467
+Startuptime:	3360
+437	433	455	462
+Startuptime:	3394
+437	433	463	480
+Startuptime:	2810
+429	428	432	462
+Startuptime:	2844
+432	435	437	429
+Startuptime:	3135
+467	463	439	505
+Startuptime:	2810
+430	432	472	437
+Startuptime:	2927
+432	446	474	433
+Startuptime:	3410
+440	464	433	462
+Startuptime:	2894
+474	437	438	432
+Startuptime:	2868
+432	435	454	457
+Startuptime:	3452
+440	472	469	445
+Startuptime:	2977
+445	460	432	436
+Startuptime:	3143
+434	432	473	437
+Startuptime:	3344
+432	437	516	466
+Startuptime:	2877
+467	449	446	464
+Startuptime:	3279
+472	463	471	467
+Startuptime:	3602
+439	429	431	457
+Startuptime:	3160
+434	466	465	475
+Startuptime:	2952
+463	437	434	435
+Startuptime:	3060
+430	465	465	433
+Startuptime:	3052
+462	472	465	440
+Startuptime:	3460
+440	434	431	435
+Startuptime:	3535
+434	439	446	468
+Startuptime:	3219
+436	437	440	439
+Startuptime:	2827
+434	441	470	442
+Startuptime:	3502
+452	439	425	433
+Startuptime:	3352
+477	498	464	462
+Startuptime:	2952
+436	458	468	465
+Startuptime:	3310
+458	460	429	451
+Startuptime:	3369
+467	438	441	437
+Startuptime:	3352
+483	512	470	455
+Startuptime:	3243
+435	476	438	434
+Startuptime:	3652
+441	438	478	438
+Startuptime:	3060
+452	447	464	439
+Startuptime:	2785
+432	451	431	452
+Startuptime:	3860
+440	437	459	438
+Startuptime:	2993
+457	423	432	447
+Startuptime:	3602
+438	474	436	459
+Startuptime:	3294
+470	439	442	468
+Startuptime:	3377
+437	441	467	436
+Startuptime:	3377
+461	476	435	440
+Startuptime:	3335
+432	439	436	450
+Startuptime:	2818
+462	439	467	437
+Startuptime:	3127
+440	476	468	465
+Startuptime:	3143
+443	435	441	438
+Startuptime:	3277
+467	442	487	431
+Startuptime:	3218
+457	461	455	461
+Startuptime:	3010
+440	443	467	474
+Startuptime:	3577
+464	461	433	461
+Startuptime:	2977
+442	432	463	462
+Startuptime:	3493
+436	464	438	466
+Startuptime:	3452
+466	463	440	437
+Startuptime:	3210
+437	430	500	454
+Startuptime:	3227
+462	473	428	470
+Startuptime:	3552
+461	436	439	438
+Startuptime:	2885
+429	468	437	471
+Startuptime:	2885
+470	505	423	435
+Startuptime:	3452
+436	438	466	460
+Startuptime:	3227
+442	444	465	442
+Startuptime:	3318
+433	440	430	465
+Startuptime:	3135
+438	433	435	435
+Startuptime:	3535
+399	440	432	460
+Startuptime:	3494
+472	457	463	434
+Startuptime:	3052
+460	466	471	453
+Startuptime:	3002
+428	510	459	429
+Startuptime:	2818
+434	459	433	475
+Startuptime:	2860
+435	434	464	462
+Startuptime:	3835
+456	473	440	436
+Startuptime:	3369
+438	468	460	464
+Startuptime:	2777
+435	436	438	441
+Startuptime:	3327
+444	474	458	463
+Startuptime:	3427
+464	461	431	469
+Startuptime:	3010
+461	470	434	437
+Startuptime:	3027
+469	471	431	455
+Startuptime:	3352
+477	436	467	443
+Startuptime:	2968
+473	475	440	442
+Startuptime:	3002
+470	444	463	457
+Startuptime:	3443
+423	432	427	428
+Startuptime:	3110
+439	428	425	427
+Startuptime:	2877
+435	441	463	437
+Startuptime:	3552
+437	462	464	469
+Startuptime:	2885
+431	472	436	467
+Startuptime:	2985
+434	440	437	467
+Startuptime:	3435
+433	432	430	467
+Startuptime:	3285
+437	434	463	470
+Startuptime:	2902
+468	392	424	455
+Startuptime:	2902
+441	436	463	464
+Startuptime:	3169
+460	432	461	459
+Startuptime:	3452
+453	439	434	463
+Startuptime:	2827
+433	494	467	435
+Startuptime:	2877
+466	463	430	466
+Startuptime:	3402
+462	474	437	462
+Startuptime:	2810
+435	438	474	432
+Startuptime:	2985
+467	438	446	473
+Startuptime:	3543
+438	467	438	433
+Startuptime:	2810
+453	437	440	438
+Startuptime:	3327
+443	453	441	508
+Startuptime:	2827
+430	462	434	437
+Startuptime:	2877
+438	432	448	433
+Startuptime:	3010
+439	468	463	442
+Startuptime:	3319
+432	470	433	434
+Startuptime:	2952
+505	463	460	429
+Startuptime:	3010
+464	436	438	462
+Startuptime:	3494
+438	477	437	432
+Startuptime:	3994
+469	433	435	495
+Startuptime:	3668
+440	473	474	440
+Startuptime:	2852
+460	468	435	504
+Startuptime:	3027
+435	436	460	465
+Startuptime:	2952
+434	436	441	437
+Startuptime:	3560
+462	474	497	431
+Startuptime:	2927
+432	455	483	436
+Startuptime:	2977
+427	464	454	426
+Startuptime:	2977
+467	440	467	440
+Startuptime:	3027
+463	457	430	441
+Startuptime:	2877
+439	452	437	432
+Startuptime:	2852
+437	467	427	430
+Startuptime:	2877
+455	476	460	458
+Startuptime:	3518
+451	427	454	431
+Startuptime:	3127
+471	463	467	437
+Startuptime:	4135
+434	437	438	441
+Startuptime:	3660
+452	468	439	438
+Startuptime:	3427
+435	436	475	439
+Startuptime:	3277
+440	437	469	468
+Startuptime:	3560
+462	436	435	466
+Startuptime:	2802
+437	439	432	431
+Startuptime:	4010
+474	441	465	433
+Startuptime:	3035
+462	461	463	469
+Startuptime:	3002
+465	461	443	436
+Startuptime:	3418
+429	434	464	508
+Startuptime:	2819
+443	443	437	465
+Startuptime:	2935
+433	470	437	477
+Startuptime:	2818
+436	472	435	435
+Startuptime:	3277
+435	437	470	455
+Startuptime:	3110
+440	463	437	467
+Startuptime:	3535
+461	469	428	437
+Startuptime:	3277
+440	442	474	477
+Startuptime:	3393
+439	469	429	460
+Startuptime:	2852
+473	435	428	459
+Startuptime:	2843
+442	438	438	439
+Startuptime:	4118
+444	467	442	460
+Startuptime:	3160
+435	463	467	434
+Startuptime:	3069
+447	444	438	476
+Startuptime:	3485
+436	435	436	460
+Startuptime:	2935
+460	429	439	472
+Startuptime:	2802
+464	440	428	464
+Startuptime:	3044
+462	460	460	456
+Startuptime:	3460
+437	433	470	454
+Startuptime:	3743
+434	471	438	471
+Startuptime:	2960
+439	433	433	473
+Startuptime:	3185
+434	468	433	476
+Startuptime:	3527
+435	471	469	432
+Startuptime:	2985
+436	437	430	457
+Startuptime:	2935
+435	469	456	444
+Startuptime:	2935
+449	427	459	457
+Startuptime:	3027
+459	443	431	474
+Startuptime:	2885
+433	469	459	465
+Startuptime:	3952
+463	463	439	477
+Startuptime:	2935
+466	435	462	435
+Startuptime:	3068
+458	449	435	436
+Startuptime:	2893
+437	431	439	461
+Startuptime:	3535
+432	467	466	436
+Startuptime:	3743
+477	439	438	440
+Startuptime:	2935
+440	438	434	510
+Startuptime:	3019
+433	456	433	436
+Startuptime:	2852
+440	442	438	465
+Startuptime:	2852
+432	468	425	433
+Startuptime:	3452
+452	433	447	441
+Startuptime:	3027
+439	462	429	439
+Startuptime:	3019
+464	439	434	439
+Startuptime:	3343
+438	465	434	424
+Startuptime:	2877
+435	456	468	435
+Startuptime:	3252
+458	444	461	453
+Startuptime:	2810
+464	473	477	476
+Startuptime:	3369
+433	462	460	508
+Startuptime:	2818
+438	440	434	477
+Startuptime:	3327
+435	434	437	477
+Startuptime:	3660
+436	474	436	465
+Startuptime:	3044
+473	441	434	468
+Startuptime:	3443
+440	438	465	469
+Startuptime:	2910
+439	476	455	461
+Startuptime:	2793
+460	436	432	435
+Startuptime:	3277
+459	463	438	441
+Startuptime:	2902
+441	467	474	437
+Startuptime:	3085
+437	465	480	459
+Startuptime:	2944
+435	462	437	434
+Startuptime:	3802
+435	468	438	439
+Startuptime:	3652
+455	431	424	439
+Startuptime:	2860
+432	477	434	438
+Startuptime:	3544
+436	443	441	460
+Startuptime:	3227
+440	444	438	465
+Startuptime:	3335
+440	435	457	458
+Startuptime:	2985
+468	440	472	464
+Startuptime:	2960
+473	476	466	438
+Startuptime:	4227
+466	433	439	439
+Startuptime:	3052
+465	438	431	433
+Startuptime:	2802
+446	474	439	469
+Startuptime:	2977
+463	443	436	444
+Startuptime:	3260
+457	430	437	437
+Startuptime:	3052
+460	461	432	457
+Startuptime:	3560
+458	472	462	457
+Startuptime:	3594
+467	467	466	478
+Startuptime:	3010
+447	431	452	426
+Startuptime:	3094
+511	480	431	434
+Startuptime:	3160
+434	430	457	426
+Startuptime:	3235
+462	462	464	501
+Startuptime:	3102
+472	433	466	477
+Startuptime:	3135
+475	459	433	472
+Startuptime:	2952
+435	468	463	490
+Startuptime:	2952
+439	466	463	440
+Startuptime:	2827
+466	471	484	436
+Startuptime:	3585
+447	443	442	473
+Startuptime:	2777
+439	463	454	435
+Startuptime:	2902
+434	469	464	443
+Startuptime:	3669
+429	427	458	462
+Startuptime:	3510
+438	464	446	435
+Startuptime:	3135
+428	465	462	458
+Startuptime:	3610
+470	459	508	437
+Startuptime:	2994
+437	437	433	435
+Startuptime:	3535
+432	435	462	434
+Startuptime:	3052
+431	433	440	435
+Startuptime:	3619
+465	464	435	434
+Startuptime:	3952
+461	469	440	439
+Startuptime:	3594
+435	434	437	456
+Startuptime:	3510
+475	480	471	456
+Startuptime:	2893
+429	460	432	443
+Startuptime:	3069
+438	468	451	440
+Startuptime:	3319
+437	473	433	510
+Startuptime:	2927
+443	438	442	439
+Startuptime:	2877
+471	469	436	440
+Startuptime:	3069
+465	433	441	435
+Startuptime:	3010
+433	473	434	432
+Startuptime:	3718
+469	441	441	475
+Startuptime:	3293
+439	494	461	432
+Startuptime:	3243
+433	433	445	440
+Startuptime:	2794
+479	473	433	442
+Startuptime:	2835
+475	468	465	434
+Startuptime:	3027
+443	461	476	439
+Startuptime:	2835
+449	435	434	429
+Startuptime:	2985
+439	466	440	436
+Startuptime:	2835
+471	439	427	431
+Startuptime:	3185
+458	429	457	457
+Startuptime:	3635
+477	464	475	472
+Startuptime:	3210
+474	433	436	438
+Startuptime:	3469
+470	435	438	433
+Startuptime:	3002
+434	435	457	434
+Startuptime:	2935
+429	428	458	458
+Startuptime:	3377
+441	433	467	438
+Startuptime:	3360
+444	448	446	462
+Startuptime:	2844
+462	461	435	466
+Startuptime:	3544
+474	437	430	443
+Startuptime:	3293
+431	434	433	430
+Startuptime:	3027
+437	434	496	436
+Startuptime:	3727
+436	444	464	442
+Startuptime:	3185
+461	469	505	437
+Startuptime:	3268
+445	471	466	441
+Startuptime:	3277
+441	473	441	469
+Startuptime:	3661
+464	475	457	430
+Startuptime:	3290
+446	436	464	437
+Startuptime:	3602
+435	439	438	462
+Startuptime:	3185
+436	438	435	439
+Startuptime:	2868
+433	432	458	464
+Startuptime:	3744
+464	459	474	440
+Startuptime:	3043
+460	464	460	431
+Startuptime:	3110
+477	482	475	468
+Startuptime:	2960
+470	434	440	465
+Startuptime:	2802
+470	467	436	442
+Startuptime:	3460
+464	441	466	444
+Startuptime:	3810
+442	437	466	465
+Startuptime:	2927
+438	441	438	438
+Startuptime:	2885
+436	466	469	438
+Startuptime:	2852
+460	460	431	460
+Startuptime:	3268
+450	435	435	437
+Startuptime:	3327
+459	433	460	434
+Startuptime:	3010
+434	428	456	455
+Startuptime:	3019
+435	442	467	469
+Startuptime:	2918
+432	438	430	460
+Startuptime:	2919
+440	512	436	434
+Startuptime:	3652
+426	432	458	474
+Startuptime:	2952
+464	440	435	439
+Startuptime:	3552
+457	432	436	436
+Startuptime:	3160
+460	436	434	427
+Startuptime:	3468
+440	473	436	457
+Startuptime:	2885
+438	471	477	470
+Startuptime:	3460
+479	437	445	461
+Startuptime:	3052
+437	427	430	469
+Startuptime:	3269
+436	438	460	431
+Startuptime:	2935
+468	463	442	444
+Startuptime:	3027
+453	425	427	426
+Startuptime:	3127
+434	441	432	439
+Startuptime:	2818
+433	459	495	472
+Startuptime:	3077
+471	437	431	429
+Startuptime:	2985
+502	442	429	464
+Startuptime:	3127
+430	459	431	474
+Startuptime:	2877
+436	472	442	479
+Startuptime:	2994
+433	441	455	440
+Startuptime:	3444
+433	428	433	436
+Startuptime:	2994
+467	439	464	466
+Startuptime:	3377
+432	470	436	429
+Startuptime:	2969
+440	443	472	439
+Startuptime:	3035
+500	442	454	453
+Startuptime:	3185
+439	471	433	436
+Startuptime:	3318
+433	432	440	432
+Startuptime:	3319
+427	468	473	461
+Startuptime:	2777
+438	457	442	437
+Startuptime:	3019
+442	437	430	433
+Startuptime:	3035
+479	473	433	465
+Startuptime:	3218
+468	439	438	428
+Startuptime:	3485
+453	466	431	439
+Startuptime:	3310
+437	461	429	435
+Startuptime:	2969
+442	434	459	434
+Startuptime:	2785
+437	478	462	435
+Startuptime:	2969
+434	471	465	440
+Startuptime:	3427
+436	435	441	462
+Startuptime:	2843
+432	460	431	433
+Startuptime:	2935
+457	432	465	461
+Startuptime:	3135
+477	431	435	435
+Startuptime:	2794
+462	464	465	473
+Startuptime:	2918
+437	429	434	460
+Startuptime:	3060
+437	438	439	461
+Startuptime:	3069
+440	469	439	439
+Startuptime:	3177
+469	438	440	457
+Startuptime:	3460
+459	467	437	440
+Startuptime:	3044
+457	432	434	435
+Startuptime:	2935
+465	461	431	434
+Startuptime:	3668
+469	471	448	441
+Startuptime:	3435
+480	462	468	433
+Startuptime:	2994
+476	464	471	430
+Startuptime:	2802
+462	464	484	441
+Startuptime:	3085
+439	437	436	433
+Startuptime:	3269
+457	439	484	466
+Startuptime:	3535
+437	472	431	430
+Startuptime:	2994
+433	440	434	504
+Startuptime:	3010
+430	419	426	491
+Startuptime:	2985
+453	472	431	470
+Startuptime:	2860
+460	430	473	433
+Startuptime:	2969
+459	508	476	440
+Startuptime:	3585
+430	437	464	435
+Startuptime:	2852
+466	437	432	434
+Startuptime:	2885
+474	466	461	466
+Startuptime:	3494
+432	451	462	458
+Startuptime:	3568
+472	460	473	438
+Startuptime:	4227
+449	469	476	470
+Startuptime:	3460
+433	438	437	437
+Startuptime:	3544
+439	439	435	477
+Startuptime:	3435
+429	437	467	462
+Startuptime:	2843
+428	460	427	437
+Startuptime:	3569
+462	442	430	454
+Startuptime:	4010
+472	431	456	466
+Startuptime:	2944
+433	435	439	463
+Startuptime:	2827
+463	465	435	444
+Startuptime:	2835
+437	432	471	459
+Startuptime:	2810
+433	438	466	436
+Startuptime:	2877
+455	437	469	431
+Startuptime:	2919
+436	437	472	433
+Startuptime:	3002
+433	465	464	433
+Startuptime:	3602
+430	438	463	463
+Startuptime:	3760
+427	435	455	437
+Startuptime:	2818
+475	437	473	438
+Startuptime:	2960
+441	474	498	457
+Startuptime:	3802
+438	470	433	436
+Startuptime:	3018
+464	433	436	432
+Startuptime:	3294
+436	508	463	467
+Startuptime:	3310
+468	463	465	462
+Startuptime:	2944
+431	435	465	462
+Startuptime:	2918
+432	430	453	469
+Startuptime:	2894
+456	438	445	456
+Startuptime:	3185
+436	461	433	434
+Startuptime:	2985
+435	466	479	436
+Startuptime:	2852
+448	461	457	462
+Startuptime:	3452
+478	436	477	447
+Startuptime:	3127
+428	433	433	459
+Startuptime:	2960
+468	439	436	457
+Startuptime:	3485
+459	436	457	460
+Startuptime:	3052
+447	457	467	460
+Startuptime:	3044
+445	439	470	436
+Startuptime:	2844
+430	431	431	461
+Startuptime:	2877
+453	451	430	428
+Startuptime:	3435
+473	442	469	455
+Startuptime:	2802
+437	461	472	464
+Startuptime:	3527
+440	435	448	430
+Startuptime:	2885
+463	469	472	480
+Startuptime:	3552
+427	460	427	433
+Startuptime:	3318
+434	434	438	464
+Startuptime:	3144
+433	432	510	463
+Startuptime:	2810
+441	439	466	439
+Startuptime:	3443
+435	461	460	434
+Startuptime:	3069
+465	460	430	397
+Startuptime:	2802
+459	452	430	427
+Startuptime:	3368
+510	509	466	467
+Startuptime:	3135
+458	472	469	462
+Startuptime:	3327
+435	473	439	466
+Startuptime:	3185
+444	459	426	462
+Startuptime:	3460
+439	441	435	437
+Startuptime:	2893
+437	460	432	439
+Startuptime:	3360
+494	463	452	439
+Startuptime:	3502
+437	428	426	457
+Startuptime:	3435
+463	433	447	438
+Startuptime:	3477
+429	461	432	447
+Startuptime:	3335
+438	442	468	462
+Startuptime:	3277
+430	436	429	461
+Startuptime:	2927
+440	460	478	463
+Startuptime:	2969
+460	441	475	463
+Startuptime:	2935
+433	431	475	461
+Startuptime:	2910
+431	436	436	434
+Startuptime:	2860
+434	432	429	454
+Startuptime:	3160
+440	441	442	436
+Startuptime:	3868
+472	434	436	466
+Startuptime:	3002
+428	430	430	428
+Startuptime:	3293
+468	466	472	433
+Startuptime:	3177
+432	439	469	472
+Startuptime:	3335
+443	513	444	435
+Startuptime:	3310
+440	461	436	436
+Startuptime:	3102
+470	426	424	428
+Startuptime:	2994
+435	478	513	513
+Startuptime:	3085
+508	432	453	458
+Startuptime:	2860
+429	435	461	444
+Startuptime:	3477
+434	455	435	464
+Startuptime:	2944
+426	435	457	429
+Startuptime:	2844
+468	465	444	469
+Startuptime:	3519
+457	431	458	457
+Startuptime:	3002
+467	433	437	430
+Startuptime:	2902
+459	434	432	459
+Startuptime:	2860
+468	463	472	429
+Startuptime:	3518
+444	467	436	463
+Startuptime:	3002
+463	465	434	436
+Startuptime:	2827
+469	433	443	466
+Startuptime:	3285
+429	457	447	425
+Startuptime:	3127
+462	469	432	465
+Startuptime:	3077
+437	436	476	438
+Startuptime:	3319
+471	460	437	475
+Startuptime:	2860
+488	471	434	476
+Startuptime:	3452
+465	460	435	467
+Startuptime:	3702
+432	446	468	476
+Startuptime:	3535
+456	455	435	468
+Startuptime:	2818
+438	437	459	470
+Startuptime:	2994
+462	466	434	438
+Startuptime:	3277
+471	437	436	434
+Startuptime:	3519
+436	458	459	496
+Startuptime:	3560
+461	434	477	506
+Startuptime:	2810
+439	473	469	428
+Startuptime:	3318
+461	444	438	430
+Startuptime:	3077
+440	467	436	471
+Startuptime:	3244
+472	433	436	469
+Startuptime:	3035
+444	476	432	447
+Startuptime:	3219
+468	440	429	498
+Startuptime:	4218
+440	439	443	466
+Startuptime:	2985
+461	437	432	468
+Startuptime:	2927
+441	428	433	437
+Startuptime:	2910
+474	439	436	471
+Startuptime:	3052
+454	458	463	461
+Startuptime:	3610
+465	463	439	467
+Startuptime:	3435
+441	434	439	449
+Startuptime:	3977
+438	451	467	477
+Startuptime:	3035
+472	462	433	440
+Startuptime:	3152
+472	437	434	432
+Startuptime:	3468
+433	461	460	451
+Startuptime:	2835
+443	463	490	429
+Startuptime:	3318
+439	469	436	432
+Startuptime:	3360
+431	453	424	431
+Startuptime:	3052
+454	433	466	436
+Startuptime:	3102
+464	470	440	436
+Startuptime:	2885
+465	471	427	435
+Startuptime:	2894
+467	441	470	503
+Startuptime:	3177
+434	441	432	434
+Startuptime:	2952
+472	440	432	433
+Startuptime:	3385
+468	461	461	463
+Startuptime:	3452
+434	441	438	437
+Startuptime:	3535
+463	439	465	442
+Startuptime:	3102
+440	440	438	469
+Startuptime:	4002
+434	434	436	432
+Startuptime:	3127
+467	446	438	433
+Startuptime:	3345
+455	442	433	444
+Startuptime:	2893
+459	444	439	445
+Startuptime:	2885
+481	464	439	446
+Startuptime:	3410
+469	434	453	465
+Startuptime:	3018
+441	470	440	463
+Startuptime:	2877
+460	436	465	429
+Startuptime:	3377
+462	436	468	456
+Startuptime:	3177
+510	464	479	480
+Startuptime:	3302
+477	435	473	437
+Startuptime:	3485
+437	461	438	474
+Startuptime:	3027
+436	464	433	440
+Startuptime:	3118
+426	431	430	431
+Startuptime:	3427
+435	435	432	463
+Startuptime:	3852
+432	465	438	436
+Startuptime:	3152
+464	472	433	457
+Startuptime:	3394
+449	462	444	443
+Startuptime:	2902
+469	442	466	442
+Startuptime:	2885
+472	474	437	450
+Startuptime:	3085
+448	439	470	447
+Startuptime:	2810
+444	435	430	431
+Startuptime:	2977
+472	461	431	436
+Startuptime:	3119
+437	437	454	470
+Startuptime:	3660
+465	468	509	431
+Startuptime:	3227
+439	435	437	436
+Startuptime:	3160
+444	439	457	458
+Startuptime:	2810
+453	469	453	498
+Startuptime:	3110
+473	436	425	435
+Startuptime:	2969
+445	466	476	439
+Startuptime:	2968
+472	440	433	453
+Startuptime:	2969
+456	435	465	434
+Startuptime:	3398
+441	466	430	471
+Startuptime:	3002
+436	433	429	440
+Startuptime:	3302
+434	438	452	436
+Startuptime:	2818
+436	438	434	456
+Startuptime:	2927
+460	464	475	462
+Startuptime:	3002
+467	433	439	463
+Startuptime:	2977
+437	470	467	465
+Startuptime:	3610
+436	471	437	461
+Startuptime:	3219
+440	434	455	443
+Startuptime:	3519
+441	434	432	467
+Startuptime:	3552
+429	426	459	463
+Startuptime:	2869
+436	434	434	463
+Startuptime:	2977
+433	462	429	468
+Startuptime:	3310
+433	440	466	432
+Startuptime:	3560
+440	443	472	473
+Startuptime:	3077
+431	464	461	424
+Startuptime:	3019
+428	458	426	460
+Startuptime:	3069
+431	437	439	440
+Startuptime:	3210
+435	439	442	436
+Startuptime:	3035
+442	433	432	473
+Startuptime:	3035
+470	438	435	466
+Startuptime:	3360
+430	476	445	476
+Startuptime:	2985
+477	438	464	476
+Startuptime:	2902
+463	433	430	456
+Startuptime:	2802
+435	462	429	457
+Startuptime:	3394
+439	441	443	434
+Startuptime:	3502
+457	457	459	462
+Startuptime:	2877
+432	439	442	434
+Startuptime:	3577
+460	467	435	435
+Startuptime:	2935
+436	458	447	443
+Startuptime:	2810
+454	475	437	471
+Startuptime:	3302
+437	462	472	430
+Startuptime:	3010
+468	460	466	464
+Startuptime:	3360
+467	473	432	443
+Startuptime:	3477
+433	463	434	427
+Startuptime:	2835
+438	437	441	465
+Startuptime:	3435
+433	439	437	433
+Startuptime:	3235
+464	436	465	461
+Startuptime:	3002
+462	437	440	433
+Startuptime:	2935
+465	436	438	431
+Startuptime:	3277
+448	436	434	433
+Startuptime:	3535
+474	465	462	435
+Startuptime:	3019
+433	437	434	439
+Startuptime:	3202
+470	433	439	434
+Startuptime:	3494
+433	465	433	462
+Startuptime:	3169
+448	471	432	440
+Startuptime:	3135
+438	444	468	464
+Startuptime:	3219
+441	438	437	439
+Startuptime:	3469
+474	451	435	432
+Startuptime:	3219
+436	438	439	436
+Startuptime:	2985
+429	430	459	433
+Startuptime:	2818
+467	466	464	472
+Startuptime:	2802
+474	477	433	432
+Startuptime:	3260
+425	452	429	453
+Startuptime:	2810
+467	436	466	439
+Startuptime:	3435
+436	467	427	427
+Startuptime:	3285
+467	460	427	395
+Startuptime:	2902
+463	440	470	439
+Startuptime:	3035
+440	439	444	433
+Startuptime:	2952
+440	436	435	465
+Startuptime:	3094
+476	442	435	433
+Startuptime:	3110
+435	499	461	433
+Startuptime:	2835
+465	436	424	433
+Startuptime:	3177
+474	453	436	476
+Startuptime:	3410
+472	432	431	428
+Startuptime:	3685
+440	466	461	458
+Startuptime:	3344
+437	473	473	460
+Startuptime:	3260
+508	460	429	431
+Startuptime:	3119
+463	432	431	457
+Startuptime:	3018
+460	460	465	461
+Startuptime:	3010
+461	474	469	437
+Startuptime:	3035
+438	467	440	433
+Startuptime:	3427
+465	436	433	438
+Startuptime:	2968
+433	466	434	432
+Startuptime:	3493
+458	463	451	451
+Startuptime:	3019
+468	435	430	433
+Startuptime:	3035
+467	435	466	448
+Startuptime:	3152
+430	427	505	465
+Startuptime:	3068
+438	434	428	435
+Startuptime:	2802
+440	435	462	465
+Startuptime:	3452
+445	438	470	436
+Startuptime:	2810
+439	463	431	430
+Startuptime:	2960
+441	433	438	433
+Startuptime:	3277
+470	425	436	435
+Startuptime:	2952
+477	437	433	462
+Startuptime:	3319
+428	433	437	460
+Startuptime:	3118
+436	430	428	432
+Startuptime:	3474
+442	456	464	441
+Startuptime:	3585
+456	440	437	443
+Startuptime:	3269
+472	444	478	436
+Startuptime:	3307
+430	461	432	436
+Startuptime:	3852
+433	435	438	437
+Startuptime:	2810
+438	468	463	438
+Startuptime:	2969
+435	430	437	442
+Startuptime:	3460
+429	458	460	455
+Startuptime:	3368
+458	451	495	458
+Startuptime:	3385
+440	437	437	474
+Startuptime:	3035
+455	436	464	502
+Startuptime:	2810
+441	439	433	436
+Startuptime:	2960
+469	466	435	440
+Startuptime:	2869
+386	441	435	433
+Startuptime:	3069
+439	464	451	431
+Startuptime:	3044
+433	481	478	444
+Startuptime:	3494
+465	437	443	438
+Startuptime:	3419
+466	462	466	436
+Startuptime:	2919
+435	431	441	477
+Startuptime:	3468
+472	471	463	438
+Startuptime:	2943
+444	444	435	465
+Startuptime:	2794
+470	437	433	464
+Startuptime:	3569
+443	460	438	465
+Startuptime:	2852
+459	434	460	491
+Startuptime:	3410
+503	467	461	460
+Startuptime:	2902
+465	439	441	476
+Startuptime:	3110
+458	437	430	459
+Startuptime:	3019
+439	445	442	443
+Startuptime:	2993
+429	429	462	432
+Startuptime:	2969
+498	461	450	464
+Startuptime:	3677
+434	438	435	457
+Startuptime:	3394
+439	433	476	460
+Startuptime:	3002
+439	447	436	435
+Startuptime:	3010
+471	459	434	461
+Startuptime:	2993
+395	461	448	460
+Startuptime:	3477
+461	435	466	464
+Startuptime:	3318
+425	453	441	428
+Startuptime:	2994
+479	479	471	434
+Startuptime:	3027
+435	442	434	468
+Startuptime:	3085
+426	470	465	501
+Startuptime:	2760
+457	439	464	436
+Startuptime:	2852
+458	438	474	458
+Startuptime:	2902
+468	494	459	467
+Startuptime:	3343
+464	435	469	435
+Startuptime:	2985
+431	454	434	471
+Startuptime:	2952
+480	470	473	465
+Startuptime:	2819
+431	473	470	470
+Startuptime:	2819
+433	431	432	434
+Startuptime:	2952
+465	447	472	446
+Startuptime:	3227
+461	470	432	436
+Startuptime:	3552
+436	433	433	439
+Startuptime:	3577
+447	462	433	460
+Startuptime:	3069
+442	433	435	459
+Startuptime:	3477
+470	431	465	510
+Startuptime:	3027
+459	458	433	433
+Startuptime:	3185
+461	461	442	443
+Startuptime:	3652
+502	473	510	437
+Startuptime:	2793
+469	465	468	469
+Startuptime:	2877
+465	441	439	436
+Startuptime:	3502
+474	441	464	434
+Startuptime:	3393
+469	468	431	432
+Startuptime:	3610
+432	464	433	438
+Startuptime:	3943
+433	435	461	448
+Startuptime:	3235
+461	469	453	456
+Startuptime:	3544
+433	443	441	432
+Startuptime:	3285
+464	434	436	399
+Startuptime:	2952
+464	438	438	461
+Startuptime:	3069
+482	451	437	459
+Startuptime:	2885
+511	463	464	441
+Startuptime:	3385
+435	464	437	504
+Startuptime:	3444
+435	435	431	433
+Startuptime:	3544
+433	437	466	506
+Startuptime:	2835
+440	433	507	440
+Startuptime:	3685
+460	441	456	473
+Startuptime:	3027
+447	474	443	469
+Startuptime:	3760
+434	458	470	431
+Startuptime:	3477
+443	434	432	432
+Startuptime:	3618
+437	470	432	470
+Startuptime:	3552
+473	456	506	475
+Startuptime:	3010
+440	440	477	477
+Startuptime:	2977
+443	470	468	440
+Startuptime:	3227
+434	443	438	462
+Startuptime:	2969
+432	440	446	442
+Startuptime:	2835
+431	461	438	432
+Startuptime:	3176
+435	469	470	460
+Startuptime:	2902
+440	439	463	468
+Startuptime:	3177
+439	435	434	440
+Startuptime:	3027
+454	427	432	430
+Startuptime:	3335
+463	431	433	433
+Startuptime:	3110
+471	461	428	440
+Startuptime:	3560
+460	435	468	465
+Startuptime:	2960
+437	468	434	458
+Startuptime:	3185
+440	494	461	439
+Startuptime:	2994
+465	435	433	467
+Startuptime:	3302
+507	457	438	436
+Startuptime:	2968
+446	444	437	439
+Startuptime:	3097
+435	465	466	461
+Startuptime:	3685
+435	467	456	430
+Startuptime:	3619
+431	473	457	433
+Startuptime:	2969
+468	431	463	433
+Startuptime:	3160
+441	445	435	492
+Startuptime:	2985
+440	467	435	455
+Startuptime:	3452
+437	466	436	430
+Startuptime:	3252
+433	448	471	451
+Startuptime:	3044
+435	476	476	437
+Startuptime:	3085
+464	435	432	448
+Startuptime:	3227
+436	432	459	432
+Startuptime:	3035
+455	460	457	430
+Startuptime:	3077
+437	442	438	471
+Startuptime:	2810
+429	427	424	456
+Startuptime:	2935
+436	466	467	464
+Startuptime:	3310
+473	437	475	444
+Startuptime:	3252
+435	433	435	464
+Startuptime:	2943
+475	437	494	430
+Startuptime:	2977
+470	465	434	463
+Startuptime:	3169
+434	468	456	430
+Startuptime:	3010
+465	457	466	462
+Startuptime:	3469
+467	438	463	472
+Startuptime:	3010
+469	439	473	476
+Startuptime:	3135
+438	436	433	432
+Startuptime:	3285
+439	434	461	429
+Startuptime:	2935
+439	441	441	470
+Startuptime:	3110
+444	436	472	474
+Startuptime:	2843
+457	468	432	431
+Startuptime:	3052
+435	432	437	461
+Startuptime:	2927
+486	483	510	479
+Startuptime:	3343
+440	468	433	441
+Startuptime:	3502
+466	432	423	459
+Startuptime:	3369
+442	444	455	480
+Startuptime:	3394
+429	474	466	504
+Startuptime:	3027
+440	439	432	432
+Startuptime:	3044
+459	444	472	447
+Startuptime:	3135
+434	465	458	436
+Startuptime:	3027
+463	465	434	459
+Startuptime:	3102
+471	436	455	432
+Startuptime:	3443
+438	463	433	464
+Startuptime:	3535
+478	439	434	461
+Startuptime:	3319
+513	441	458	440
+Startuptime:	2994
+462	436	452	452
+Startuptime:	3044
+438	473	489	460
+Startuptime:	3118
+503	452	424	435
+Startuptime:	2977
+438	460	429	431
+Startuptime:	3627
+431	462	453	429
+Startuptime:	2968
+450	462	466	464
+Startuptime:	2969
+430	486	431	460
+Startuptime:	3485
+434	441	457	432
+Startuptime:	3135
+435	436	466	435
+Startuptime:	2902
+462	470	438	461
+Startuptime:	2918
+437	436	461	441
+Startuptime:	2902
+433	442	476	442
+Startuptime:	2977
+466	469	464	466
+Startuptime:	3335
+439	463	468	441
+Startuptime:	3352
+463	437	469	431
+Startuptime:	2960
+438	466	479	466
+Startuptime:	3494
+475	447	458	438
+Startuptime:	3052
+429	430	433	436
+Startuptime:	3560
+454	442	441	471
+Startuptime:	3019
+439	486	446	458
+Startuptime:	3002
+477	452	470	470
+Startuptime:	3868
+436	476	433	469
+Startuptime:	3594
+445	442	440	444
+Startuptime:	2968
+443	432	461	470
+Startuptime:	2852
+439	455	437	435
+Startuptime:	3310
+434	467	467	457
+Startuptime:	3160
+429	471	461	466
+Startuptime:	2835
+435	437	433	470
+Startuptime:	3494
+470	437	473	440
+Startuptime:	3635
+434	463	439	435
+Startuptime:	2960
+435	438	445	439
+Startuptime:	3277
+438	474	467	435
+Startuptime:	3044
+441	442	439	477
+Startuptime:	2860
+437	436	431	397
+Startuptime:	3102
+460	432	435	429
+Startuptime:	3919
+463	434	430	429
+Startuptime:	3043
+462	436	424	460
+Startuptime:	3260
+462	455	469	431
+Startuptime:	3476
+462	440	476	473
+Startuptime:	3002
+435	437	435	440
+Startuptime:	3527
+445	443	433	466
+Startuptime:	3052
+470	478	439	435
+Startuptime:	2844
+435	436	506	456
+Startuptime:	3043
+443	436	433	443
+Startuptime:	2910
+443	438	432	455
+Startuptime:	3027
+437	502	431	476
+Startuptime:	3293
+461	432	441	430
+Startuptime:	3477
+472	439	453	443
+Startuptime:	2802
+508	439	438	465
+Startuptime:	3627
+440	472	436	438
+Startuptime:	2960
+436	437	470	460
+Startuptime:	2985
+439	464	433	500
+Startuptime:	2794
+434	466	433	443
+Startuptime:	2852
+430	437	456	461
+Startuptime:	3002
+434	435	444	505
+Startuptime:	3127
+436	437	432	467
+Startuptime:	2860
+470	461	456	437
+Startuptime:	3302
+469	434	434	440
+Startuptime:	2818
+455	466	436	429
+Startuptime:	3094
+437	435	445	456
+Startuptime:	3285
+436	459	433	454
+Startuptime:	3060
+475	509	438	440
+Startuptime:	3260
+440	467	440	428
+Startuptime:	3260
+429	437	463	427
+Startuptime:	3469
+438	466	444	443
+Startuptime:	2952
+461	463	458	434
+Startuptime:	3343
+429	425	460	447
+Startuptime:	3010
+475	439	459	470
+Startuptime:	3319
+437	438	434	434
+Startuptime:	3585
+467	446	441	443
+Startuptime:	3460
+438	433	437	461
+Startuptime:	3610
+446	482	518	467
+Startuptime:	3277
+434	435	440	433
+Startuptime:	3460
+465	437	435	474
+Startuptime:	3502
+454	464	464	470
+Startuptime:	3710
+460	425	451	424
+Startuptime:	3010
+463	466	429	432
+Startuptime:	3602
+493	431	458	458
+Startuptime:	3202
+470	459	459	468
+Startuptime:	3010
+439	440	439	439
+Startuptime:	3052
+440	438	455	467
+Startuptime:	3035
+439	466	459	449
+Startuptime:	3594
+460	455	455	455
+Startuptime:	3493
+456	429	432	457
+Startuptime:	3452
+434	439	470	470
+Startuptime:	3268
+436	452	508	433
+Startuptime:	2802
+434	437	466	439
+Startuptime:	3002
+465	430	434	466
+Startuptime:	3202
+443	440	464	456
+Startuptime:	3194
+460	428	426	427
+Startuptime:	2843
+442	466	469	471
+Startuptime:	2985
+464	437	442	443
+Startuptime:	2885
+429	463	462	457
+Startuptime:	3544
+443	435	471	470
+Startuptime:	3060
+460	422	463	434
+Startuptime:	2818
+463	438	439	431
+Startuptime:	3752
+465	431	462	469
+Startuptime:	3293
+440	458	431	466
+Startuptime:	3227
+461	431	430	450
+Startuptime:	3310
+505	439	432	433
+Startuptime:	2844
+471	441	443	465
+Startuptime:	3027
+430	434	470	449
+Startuptime:	2977
+433	441	472	441
+Startuptime:	3493
+434	433	470	464
+Startuptime:	3002
+457	431	429	425
+Startuptime:	3093
+437	431	439	477
+Startuptime:	3369
+436	473	468	463
+Startuptime:	3019
+444	477	469	473
+Startuptime:	3460
+433	468	431	465
+Startuptime:	3344
+439	443	454	464
+Startuptime:	3085
+443	438	463	474
+Startuptime:	2802
+440	437	438	463
+Startuptime:	2960
+462	435	433	463
+Startuptime:	2952
+433	432	446	431
+Startuptime:	3252
+452	458	457	458
+Startuptime:	2919
+471	441	440	433
+Startuptime:	3352
+432	437	433	459
+Startuptime:	2969
+433	437	470	435
+Startuptime:	3343
+473	469	479	399
+Startuptime:	3544
+435	453	428	452
+Startuptime:	3019
+460	461	445	496
+Startuptime:	2914
+436	433	437	437
+Startuptime:	3002
+457	437	461	438
+Startuptime:	3010
+479	467	435	470
+Startuptime:	3243
+432	434	460	461
+Startuptime:	2860
+430	478	462	474
+Startuptime:	3077
+437	467	433	432
+Startuptime:	2918
+442	464	433	462
+Startuptime:	2802
+459	439	440	451
+Startuptime:	2810
+437	436	463	467
+Startuptime:	3268
+454	459	430	469
+Startuptime:	3102
+431	462	470	437
+Startuptime:	2860
+434	438	465	468
+Startuptime:	2802
+430	433	436	434
+Startuptime:	3077
+436	442	431	431
+Startuptime:	3102
+438	438	434	464
+Startuptime:	3585
+436	486	478	464
+Startuptime:	3293
+463	464	452	503
+Startuptime:	3302
+430	431	433	430
+Startuptime:	3210
+472	440	433	470
+Startuptime:	2835
+431	476	458	429
+Startuptime:	3019
+453	473	434	505
+Startuptime:	3010
+476	437	471	437
+Startuptime:	2902
+454	462	496	500
+Startuptime:	3343
+432	465	433	467
+Startuptime:	3368
+438	443	439	439
+Startuptime:	2927
+452	454	436	440
+Startuptime:	3410
+452	468	435	451
+Startuptime:	3144
+492	456	504	426
+Startuptime:	2860
+462	431	453	428
+Startuptime:	3402
+437	441	439	442
+Startuptime:	3527
+465	465	476	434
+Startuptime:	3652
+438	439	431	476
+Startuptime:	2827
+504	440	465	441
+Startuptime:	2927
+442	471	460	460
+Startuptime:	2944
+471	436	424	459
+Startuptime:	2969
+464	430	436	430
+Startuptime:	3519
+473	436	439	472
+Startuptime:	3144
+470	452	433	441
+Startuptime:	3477
+439	439	436	437
+Startuptime:	3368
+464	435	434	454
+Startuptime:	3127
+429	450	461	459
+Startuptime:	2944
+455	449	440	468
+Startuptime:	2952
+437	425	433	464
+Startuptime:	3443
+453	428	428	430
+Startuptime:	3560
+441	453	438	431
+Startuptime:	3185
+445	471	465	436
+Startuptime:	2835
+442	459	463	438
+Startuptime:	3002
+436	501	463	463
+Startuptime:	3222
+463	443	480	438
+Startuptime:	3010
+460	472	466	433
+Startuptime:	3668
+438	440	435	449
+Startuptime:	3102
+455	461	433	438
+Startuptime:	2843
+438	476	435	435
+Startuptime:	2852
+443	440	440	434
+Startuptime:	2810
+459	445	469	441
+Startuptime:	3043
+466	471	429	467
+Startuptime:	2927
+476	439	467	475
+Startuptime:	3027
+464	435	465	430
+Startuptime:	2960
+464	473	433	461
+Startuptime:	3377
+467	439	445	468
+Startuptime:	3452
+440	430	475	470
+Startuptime:	3302
+477	438	455	434
+Startuptime:	3102
+467	445	437	462
+Startuptime:	3319
+472	434	437	433
+Startuptime:	3210
+461	391	428	432
+Startuptime:	2810
+433	438	469	442
+Startuptime:	2835
+436	474	473	475
+Startuptime:	3535
+434	469	435	434
+Startuptime:	2910
+459	466	468	440
+Startuptime:	3294
+435	463	434	464
+Startuptime:	3027
+438	434	438	450
+Startuptime:	3368
+466	430	434	434
+Startuptime:	3060
+468	442	436	438
+Startuptime:	3585
+440	462	444	465
+Startuptime:	3019
+471	474	440	462
+Startuptime:	3010
+470	435	430	471
+Startuptime:	3535
+436	459	431	458
+Startuptime:	3293
+463	435	452	458
+Startuptime:	3302
+438	436	440	475
+Startuptime:	2977
+471	470	464	467
+Startuptime:	2893
+432	443	441	439
+Startuptime:	3169
+432	440	440	439
+Startuptime:	3644
+440	436	468	465
+Startuptime:	2902
+442	437	430	441
+Startuptime:	3019
+442	454	470	460
+Startuptime:	3360
+442	455	438	437
+Startuptime:	2818
+434	433	462	431
+Startuptime:	2810
+447	439	442	447
+Startuptime:	3219
+435	461	472	439
+Startuptime:	2885
+425	425	437	456
+Startuptime:	2969
+462	438	486	430
+Startuptime:	3752
+428	458	427	436
+Startuptime:	3185
+475	480	472	434
+Startuptime:	3419
+440	473	474	471
+Startuptime:	2960
+443	438	468	431
+Startuptime:	2868
+470	448	442	462
+Startuptime:	3185
+468	464	442	465
+Startuptime:	2885
+427	427	458	431
+Startuptime:	2827
+439	442	469	456
+Startuptime:	2902
+470	460	433	435
+Startuptime:	3793
+427	438	435	426
+Startuptime:	3602
+509	429	467	462
+Startuptime:	3743
+471	436	462	436
+Startuptime:	2810
+472	474	435	434
+Startuptime:	3419
+437	443	431	398
+Startuptime:	2844
+437	434	443	501
+Startuptime:	2810
+431	476	467	437
+Startuptime:	3643
+399	448	465	433
+Startuptime:	2935
+467	443	435	468
+Startuptime:	2793
+442	441	463	464
+Startuptime:	2802
+496	434	489	437
+Startuptime:	3085
+436	512	466	457
+Startuptime:	2818
+465	442	439	436
+Startuptime:	2877
+441	437	440	399
+Startuptime:	3344
+465	446	442	473
+Startuptime:	2860
+436	437	435	471
+Startuptime:	2852
+434	468	433	442
+Startuptime:	3319
+424	489	432	454
+Startuptime:	2835
+444	459	436	435
+Startuptime:	3194
+461	463	456	456
+Startuptime:	3027
+432	471	471	460
+Startuptime:	3510
+475	437	435	473
+Startuptime:	2960
+428	465	436	428
+Startuptime:	3469
+436	434	465	433
+Startuptime:	3060
+470	472	453	469
+Startuptime:	3430
+507	462	466	511
+Startuptime:	3518
+428	461	434	471
+Startuptime:	3052
+470	461	439	435
+Startuptime:	2943
+469	438	435	470
+Startuptime:	3610
+438	472	458	458
+Startuptime:	3402
+439	430	440	438
+Startuptime:	3335
+461	430	447	430
+Startuptime:	3277
+496	456	429	435
+Startuptime:	3369
+465	443	440	444
+Startuptime:	3385
+432	461	437	432
+Startuptime:	3527
+431	427	433	471
+Startuptime:	3227
+438	461	436	435
+Startuptime:	3019
+482	463	436	430
+Startuptime:	2927
+463	442	471	470
+Startuptime:	3577
+466	464	455	475
+Startuptime:	3027
+476	435	439	432
+Startuptime:	3619
+434	459	435	467
+Startuptime:	3269
+468	435	429	435
+Startuptime:	3635
+441	455	462	477
+Startuptime:	3218
+464	429	430	437
+Startuptime:	3044
+471	432	433	476
+Startuptime:	2860
+476	436	437	440
+Startuptime:	2944
+480	429	466	446
+Startuptime:	3343
+442	440	455	436
+Startuptime:	3002
+437	443	439	439
+Startuptime:	3535
+450	466	429	449
+Startuptime:	3119
+441	440	461	472
+Startuptime:	2835
+441	435	465	500
+Startuptime:	2793
+464	436	444	460
+Startuptime:	2785
+509	434	459	444
+Startuptime:	2810
+439	439	435	433
+Startuptime:	2960
+444	440	440	442
+Startuptime:	2977
+457	457	434	435
+Startuptime:	3685
+441	444	465	474
+Startuptime:	2860
+467	435	456	433
+Startuptime:	3569
+471	466	454	435
+Startuptime:	2943
+423	429	428	465
+Startuptime:	3460
+473	434	435	434
+Startuptime:	3552
+442	431	439	440
+Startuptime:	3019
+433	435	435	462
+Startuptime:	3144
+468	480	455	437
+Startuptime:	3044
+471	472	435	398
+Startuptime:	2952
+438	446	433	433
+Startuptime:	2818
+468	435	463	439
+Startuptime:	3260
+430	436	435	440
+Startuptime:	3668
+467	464	464	470
+Startuptime:	2794
+467	432	471	441
+Startuptime:	3077
+438	467	461	465
+Startuptime:	2985
+440	439	467	438
+Startuptime:	3144
+398	438	460	436
+Startuptime:	3252
+440	453	465	451
+Startuptime:	3652
+450	431	464	454
+Startuptime:	3127
+454	430	436	430
+Startuptime:	3160
+466	431	451	496
+Startuptime:	3335
+475	437	474	466
+Startuptime:	2835
+435	442	440	442
+Startuptime:	2968
+471	434	429	434
+Startuptime:	3102
+433	436	439	435
+Startuptime:	2944
+435	431	454	435
+Startuptime:	2852
+439	440	443	440
+Startuptime:	3444
+439	477	433	437
+Startuptime:	3410
+465	428	434	465
+Startuptime:	3177
+430	428	426	426
+Startuptime:	2994
+463	471	437	433
+Startuptime:	3110
+462	436	460	456
+Startuptime:	3477
+447	457	427	428
+Startuptime:	3152
+435	432	460	441
+Startuptime:	3060
+435	440	434	438
+Startuptime:	3227
+437	442	464	461
+Startuptime:	2993
+438	462	443	467
+Startuptime:	2810
+438	470	440	439
+Startuptime:	2810
+441	442	433	433
+Startuptime:	3294
+450	473	434	467
+Startuptime:	2810
+507	436	436	436
+Startuptime:	2835
+504	437	435	440
+Startuptime:	3044
+468	467	465	467
+Startuptime:	2860
+438	480	462	437
+Startuptime:	3327
+478	444	442	444
+Startuptime:	3460
+436	460	433	452
+Startuptime:	3077
+431	482	437	434
+Startuptime:	3402
+472	506	466	460
+Startuptime:	3627
+434	441	468	443
+Startuptime:	3018
+474	470	437	465
+Startuptime:	3285
+435	437	467	459
+Startuptime:	3319
+442	442	465	466
+Startuptime:	3352
+439	440	440	437
+Startuptime:	2877
+462	439	425	456
+Startuptime:	3610
+474	439	459	438
+Startuptime:	3052
+426	435	430	463
+Startuptime:	2927
+394	461	465	465
+Startuptime:	3327
+474	477	441	460
+Startuptime:	3368
+498	441	433	464
+Startuptime:	3069
+434	463	458	437
+Startuptime:	2985
+460	460	432	435
+Startuptime:	2918
+433	453	464	431
+Startuptime:	3494
+462	475	442	431
+Startuptime:	3443
+434	459	429	429
+Startuptime:	2977
+435	467	475	437
+Startuptime:	2818
+427	470	467	438
+Startuptime:	3010
+472	440	433	434
+Startuptime:	2910
+433	465	462	434
+Startuptime:	2852
+454	437	468	431
+Startuptime:	3318
+478	461	462	433
+Startuptime:	3369
+474	473	432	465
+Startuptime:	2952
+440	433	436	434
+Startuptime:	3052
+434	436	460	435
+Startuptime:	3119
+437	434	462	433
+Startuptime:	3127
+436	438	435	430
+Startuptime:	3044
+439	438	454	462
+Startuptime:	3302
+471	506	435	435
+Startuptime:	3560
+432	426	438	431
+Startuptime:	2968
+470	464	439	435
+Startuptime:	3060
+436	439	457	474
+Startuptime:	3494
+475	440	447	445
+Startuptime:	3010
+438	458	440	429
+Startuptime:	2802
+471	470	442	442
+Startuptime:	3460
+439	435	435	432
+Startuptime:	2877
+478	474	442	437
+Startuptime:	2868
+463	436	434	465
+Startuptime:	3069
+440	427	433	452
+Startuptime:	2752
+445	463	435	464
+Startuptime:	3027
+434	439	432	441
+Startuptime:	3343
+433	429	427	427
+Startuptime:	3160
+458	453	470	431
+Startuptime:	3535
+460	469	472	506
+Startuptime:	3452
+517	472	460	441
+Startuptime:	2985
+431	440	436	434
+Startuptime:	4143
+453	465	472	472
+Startuptime:	3202
+463	432	434	432
+Startuptime:	3019
+433	461	460	424
+Startuptime:	2894
+453	434	432	434
+Startuptime:	3285
+436	438	466	440
+Startuptime:	3085
+442	467	472	461
+Startuptime:	3410
+443	437	465	467
+Startuptime:	2868
+463	446	438	436
+Startuptime:	3127
+435	464	468	439
+Startuptime:	2944
+437	436	474	431
+Startuptime:	3119
+462	431	483	467
+Startuptime:	3485
+438	461	464	465
+Startuptime:	2985
+460	474	466	439
+Startuptime:	3010
+470	434	440	430
+Startuptime:	2802
+434	438	452	472
+Startuptime:	3202
+424	498	466	462
+Startuptime:	3077
+443	473	470	468
+Startuptime:	3302
+461	464	460	436
+Startuptime:	2785
+395	479	476	469
+Startuptime:	3327
+436	475	434	436
+Startuptime:	2885
+474	474	473	434
+Startuptime:	3102
+436	434	460	500
+Startuptime:	3143
+429	495	470	450
+Startuptime:	4002
+472	434	431	472
+Startuptime:	3394
+432	457	429	437
+Startuptime:	3102
+464	463	462	434
+Startuptime:	2810
+436	465	454	438
+Startuptime:	3510
+467	503	431	433
+Startuptime:	2960
+435	503	464	465
+Startuptime:	3044
+476	460	433	437
+Startuptime:	3027
+459	436	432	432
+Startuptime:	2802
+431	433	434	462
+Startuptime:	3110
+463	474	467	440
+Startuptime:	3585
+437	465	470	443
+Startuptime:	3494
+437	437	448	433
+Startuptime:	2919
+459	453	462	449
+Startuptime:	3035
+437	506	465	461
+Startuptime:	3252
+428	458	432	460
+Startuptime:	3827
+443	512	438	443
+Startuptime:	2893
+434	439	434	435
+Startuptime:	3277
+513	440	435	459
+Startuptime:	3293
+471	428	431	467
+Startuptime:	3094
+437	436	434	462
+Startuptime:	3510
+464	461	473	432
+Startuptime:	3369
+464	464	471	461
+Startuptime:	3293
+431	433	441	428
+Startuptime:	2944
+470	495	434	429
+Startuptime:	3802
+432	434	451	432
+Startuptime:	3610
+470	435	437	429
+Startuptime:	3027
+467	437	446	468
+Startuptime:	2818
+443	463	431	437
+Startuptime:	3043
+471	512	474	473
+Startuptime:	3160
+444	440	441	440
+Startuptime:	2860
+460	431	434	434
+Startuptime:	2902
+457	430	455	431
+Startuptime:	3002
+436	438	435	452
+Startuptime:	3718
+476	434	466	466
+Startuptime:	2835
+458	461	431	456
+Startuptime:	2877
+433	468	434	459
+Startuptime:	2902
+435	468	472	461
+Startuptime:	3019
+445	442	472	438
+Startuptime:	3069
+435	438	432	452
+Startuptime:	3027
+440	441	470	445
+Startuptime:	3127
+466	475	437	463
+Startuptime:	3485
+472	435	438	431
+Startuptime:	2893
+442	463	451	464
+Startuptime:	2944
+433	437	468	469
+Startuptime:	2952
+440	439	499	434
+Startuptime:	3185
+436	441	471	440
+Startuptime:	3002
+459	465	454	455
+Startuptime:	2977
+444	433	504	465
+Startuptime:	2994
+437	438	433	433
+Startuptime:	2877
+440	439	430	460
+Startuptime:	3352
+438	453	469	435
+Startuptime:	2810
+432	438	464	437
+Startuptime:	3019
+434	435	435	453
+Startuptime:	3694
+472	436	458	472
+Startuptime:	3502
+457	440	464	437
+Startuptime:	2919
+465	466	436	433
+Startuptime:	2960
+461	432	423	433
+Startuptime:	2818
+435	439	440	435
+Startuptime:	2902
+461	446	442	467
+Startuptime:	3569
+433	465	439	457
+Startuptime:	2885
+437	461	468	434
+Startuptime:	2802
+439	443	436	477
+Startuptime:	3127
+462	434	434	473
+Startuptime:	3535
+432	442	435	457
+Startuptime:	2877
+435	435	464	400
+Startuptime:	3577
+433	471	461	469
+Startuptime:	2960
+441	466	438	432
+Startuptime:	3168
+429	432	431	429
+Startuptime:	2852
+469	434	440	433
+Startuptime:	3502
+478	509	432	464
+Startuptime:	2802
+440	439	455	435
+Startuptime:	3010
+442	439	434	454
+Startuptime:	3019
+465	471	437	469
+Startuptime:	3077
+437	429	466	467
+Startuptime:	2968
+436	431	434	434
+Startuptime:	2877
+428	440	475	433
+Startuptime:	3702
+435	470	461	471
+Startuptime:	3727
+437	437	476	435
+Startuptime:	3469
+449	443	447	442
+Startuptime:	2894
+470	431	438	426
+Startuptime:	2818
+433	468	471	433
+Startuptime:	3018
+440	441	435	458
+Startuptime:	2810
+441	442	442	464
+Startuptime:	2960
+432	472	431	452
+Startuptime:	2868
+473	432	468	434
+Startuptime:	2960
+470	464	440	433
+Startuptime:	2918
+436	439	453	475
+Startuptime:	2960
+437	465	467	468
+Startuptime:	2852
+435	430	434	432
+Startuptime:	3310
+467	465	441	439
+Startuptime:	2835
+459	439	452	476
+Startuptime:	3519
+443	436	445	470
+Startuptime:	3235
+433	434	439	440
+Startuptime:	3602
+437	456	461	434
+Startuptime:	3877
+434	447	467	480
+Startuptime:	2852
+442	441	466	434
+Startuptime:	3269
+461	439	463	438
+Startuptime:	2902
+462	442	442	467
+Startuptime:	3418
+430	429	427	423
+Startuptime:	2852
+438	471	466	461
+Startuptime:	2885
+436	471	435	430
+Startuptime:	3477
+423	463	456	432
+Startuptime:	4227
+439	438	430	459
+Startuptime:	3069
+445	470	474	442
+Startuptime:	2943
+428	455	429	463
+Startuptime:	2827
+465	438	461	459
+Startuptime:	3144
+439	435	436	474
+Startuptime:	2827
+437	478	434	466
+Startuptime:	3135
+452	433	433	432
+Startuptime:	2810
+467	436	441	439
+Startuptime:	2910
+467	438	433	432
+Startuptime:	3043
+463	462	438	437
+Startuptime:	3952
+473	469	440	465
+Startuptime:	3060
+438	430	439	432
+Startuptime:	2893
+472	474	426	426
+Startuptime:	3719
+465	432	456	463
+Startuptime:	2943
+454	467	489	429
+Startuptime:	3318
+422	461	437	441
+Startuptime:	2994
+471	439	441	444
+Startuptime:	3352
+438	455	477	440
+Startuptime:	3635
+468	435	463	475
+Startuptime:	3027
+437	452	399	466
+Startuptime:	3035
+463	437	432	435
+Startuptime:	2843
+462	436	437	429
+Startuptime:	2960
+459	438	475	438
+Startuptime:	2877
+435	437	434	438
+Startuptime:	2777
+441	463	460	476
+Startuptime:	2810
+440	441	477	514
+Startuptime:	3060
+435	445	463	443
+Startuptime:	2802
+433	462	471	463
+Startuptime:	2827
+450	457	432	392
+Startuptime:	2885
+443	462	467	434
+Startuptime:	3602
+475	439	457	439
+Startuptime:	2968
+427	457	454	457
+Startuptime:	3302
+435	455	460	449
+Startuptime:	3219
+461	438	432	432
+Startuptime:	3368
+428	432	461	433
+Startuptime:	2818
+469	439	471	465
+Startuptime:	3519
+436	460	439	434
+Startuptime:	2968
+434	474	450	442
+Startuptime:	3094
+428	430	433	450
+Startuptime:	2868
+440	441	465	425
+Startuptime:	2885
+464	473	468	438
+Startuptime:	3035
+461	438	431	439
+Startuptime:	2877
+466	435	433	465
+Startuptime:	3035
+467	477	465	441
+Startuptime:	2877
+439	435	459	441
+Startuptime:	3594
+432	432	434	434
+Startuptime:	3719
+436	484	444	439
+Startuptime:	3485
+469	462	462	463
+Startuptime:	3102
+444	438	433	436
+Startuptime:	3410
+436	467	463	464
+Startuptime:	2818
+437	434	471	433
+Startuptime:	2985
+432	449	431	462
+Startuptime:	3494
+440	432	439	439
+Startuptime:	3060
+432	435	439	466
+Startuptime:	2835
+434	440	448	435
+Startuptime:	3027
+440	447	440	437
+Startuptime:	3494
+437	441	441	438
+Startuptime:	3494
+439	439	434	466
+Startuptime:	3527
+478	464	461	468
+Startuptime:	3244
+432	456	463	426
+Startuptime:	2885
+441	473	427	441
+Startuptime:	3260
+434	436	441	443
+Startuptime:	2885
+462	464	449	438
+Startuptime:	3285
+460	464	436	431
+Startuptime:	3352
+435	435	435	430
+Startuptime:	3694
+450	434	465	471
+Startuptime:	2877
+478	470	475	435
+Startuptime:	2910
+495	465	432	465
+Startuptime:	3444
+436	438	462	439
+Startuptime:	2877
+434	471	460	430
+Startuptime:	2985
+434	436	479	462
+Startuptime:	3010
+432	469	463	459
+Startuptime:	2927
+439	438	436	434
+Startuptime:	3369
+461	475	468	512
+Startuptime:	3010
+467	461	507	459
+Startuptime:	3435
+435	440	461	440
+Startuptime:	3418
+438	438	473	438
+Startuptime:	3185
+468	460	465	431
+Startuptime:	3235
+434	466	459	447
+Startuptime:	3612
+457	465	460	434
+Startuptime:	3302
+438	463	469	459
+Startuptime:	2927
+442	437	441	431
+Startuptime:	3077
+442	464	462	442
+Startuptime:	2844
+450	432	458	463
+Startuptime:	2794
+429	469	430	435
+Startuptime:	3377
+434	430	457	466
+Startuptime:	3019
+433	437	444	437
+Startuptime:	3444
+441	473	461	435
+Startuptime:	3602
+443	442	430	435
+Startuptime:	3277
+464	438	439	436
+Startuptime:	2835
+441	463	440	441
+Startuptime:	3556
+455	443	461	461
+Startuptime:	3219
+505	472	463	440
+Startuptime:	3044
+463	450	440	451
+Startuptime:	3118
+468	473	466	431
+Startuptime:	3460
+435	437	466	468
+Startuptime:	2985
+430	464	437	436
+Startuptime:	2843
+459	457	454	426
+Startuptime:	2802
+475	438	434	436
+Startuptime:	3452
+467	435	480	469
+Startuptime:	3068
+471	434	431	437
+Startuptime:	2902
+437	438	432	439
+Startuptime:	3485
+507	438	460	431
+Startuptime:	3477
+438	435	458	433
+Startuptime:	2868
+468	462	435	444
+Startuptime:	3335
+456	436	460	449
+Startuptime:	3102
+435	439	428	468
+Startuptime:	2885
+461	446	435	439
+Startuptime:	3377
+469	462	436	430
+Startuptime:	2893
+429	438	472	510
+Startuptime:	3552
+435	438	437	468
+Startuptime:	3460
+436	435	439	439
+Startuptime:	2935
+473	465	429	429
+Startuptime:	3477
+426	461	394	469
+Startuptime:	2835
+474	424	472	433
+Startuptime:	3535
+434	429	425	433
+Startuptime:	3069
+474	438	479	464
+Startuptime:	2918
+437	433	431	438
+Startuptime:	2877
+433	462	426	439
+Startuptime:	3160
+466	440	479	482
+Startuptime:	2752
+472	436	506	432
+Startuptime:	3077
+438	461	460	465
+Startuptime:	3144
+464	434	461	473
+Startuptime:	3660
+425	427	453	394
+Startuptime:	2952
+466	458	430	459
+Startuptime:	3285
+439	435	471	458
+Startuptime:	3335
+431	452	455	462
+Startuptime:	3502
+431	437	440	441
+Startuptime:	3269
+433	457	454	433
+Startuptime:	2810
+432	437	436	469
+Startuptime:	2885
+431	432	428	462
+Startuptime:	3877
+441	436	433	463
+Startuptime:	2910
+464	450	464	461
+Startuptime:	3594
+438	469	439	443
+Startuptime:	3235
+459	435	438	434
+Startuptime:	3035
+467	430	467	466
+Startuptime:	2827
+472	441	439	434
+Startuptime:	3160
+441	433	452	435
+Startuptime:	3452
+434	436	437	468
+Startuptime:	2843
+466	429	425	462
+Startuptime:	3560
+450	446	467	477
+Startuptime:	3368
+429	469	432	463
+Startuptime:	3293
+439	434	431	457
+Startuptime:	2910
+468	432	434	434
+Startuptime:	2835
+429	431	431	431
+Startuptime:	2877
+463	478	439	462
+Startuptime:	3293
+435	471	432	471
+Startuptime:	3435
+437	430	429	464
+Startuptime:	3002
+467	437	436	474
+Startuptime:	3027
+436	464	464	441
+Startuptime:	3027
+435	457	437	431
+Startuptime:	2885
+452	472	448	435
+Startuptime:	3618
+442	432	440	440
+Startuptime:	3043
+433	437	468	437
+Startuptime:	3152
+466	438	427	431
+Startuptime:	2885
+436	460	441	448
+Startuptime:	3469
+466	480	444	465
+Startuptime:	3402
+512	432	432	443
+Startuptime:	3344
+470	430	428	457
+Startuptime:	3052
+439	445	443	440
+Startuptime:	2793
+442	461	462	430
+Startuptime:	3452
+478	436	431	432
+Startuptime:	3735
+442	476	435	437
+Startuptime:	3743
+430	437	473	460
+Startuptime:	3502
+474	465	434	432
+Startuptime:	3277
+471	441	463	430
+Startuptime:	3352
+465	438	437	434
+Startuptime:	2977
+472	430	434	435
+Startuptime:	3277
+475	461	474	446
+Startuptime:	3610
+441	433	437	467
+Startuptime:	3044
+440	467	461	466
+Startuptime:	3019
+435	476	466	444
+Startuptime:	3127
+462	444	440	465
+Startuptime:	3368
+436	429	470	453
+Startuptime:	3152
+432	442	444	475
+Startuptime:	3069
+438	440	511	466
+Startuptime:	2885
+467	431	463	431
+Startuptime:	3777
+438	434	505	473
+Startuptime:	3052
+473	470	431	442
+Startuptime:	3560
+438	447	444	474
+Startuptime:	2885
+438	427	451	431
+Startuptime:	3627
+498	466	439	464
+Startuptime:	3510
+430	481	435	436
+Startuptime:	3269
+467	467	440	501
+Startuptime:	3119
+437	471	452	431
+Startuptime:	2960
+436	434	430	465
+Startuptime:	3119
+459	425	428	454
+Startuptime:	2810
+428	461	434	437
+Startuptime:	3002
+459	434	433	431
+Startuptime:	3444
+439	461	436	436
+Startuptime:	3160
+433	466	432	433
+Startuptime:	3168
+461	432	456	459
+Startuptime:	2844
+437	467	472	430
+Startuptime:	3010
+437	434	437	461
+Startuptime:	3527
+472	437	431	456
+Startuptime:	2810
+441	461	451	434
+Startuptime:	3227
+503	434	434	463
+Startuptime:	3310
+467	446	469	445
+Startuptime:	2843
+468	435	454	434
+Startuptime:	3535
+493	434	437	432
+Startuptime:	3010
+475	434	469	431
+Startuptime:	3310
+429	458	437	429
+Startuptime:	3319
+470	464	427	427
+Startuptime:	2860
+437	440	466	462
+Startuptime:	3352
+476	437	471	440
+Startuptime:	2985
+468	429	431	458
+Startuptime:	3060
+428	461	438	437
+Startuptime:	2827
+475	463	468	438
+Startuptime:	2960
+460	431	430	425
+Startuptime:	2810
+465	439	435	437
+Startuptime:	3002
+460	454	478	440
+Startuptime:	2835
+461	461	437	463
+Startuptime:	3135
+504	434	438	435
+Startuptime:	2863
+433	432	447	462
+Startuptime:	3027
+437	436	435	458
+Startuptime:	3344
+466	463	471	431
+Startuptime:	2910
+434	440	434	465
+Startuptime:	3069
+440	431	433	429
+Startuptime:	3602
+471	438	464	436
+Startuptime:	3060
+435	463	457	466
+Startuptime:	3444
+424	430	463	455
+Startuptime:	3269
+426	464	430	453
+Startuptime:	2794
+469	475	440	464
+Startuptime:	2810
+444	473	441	480
+Startuptime:	3085
+443	441	432	440
+Startuptime:	3502
+434	429	458	457
+Startuptime:	3502
+463	471	475	479
+Startuptime:	3377
+440	430	438	442
+Startuptime:	3264
+433	443	467	464
+Startuptime:	3060
+474	435	459	452
+Startuptime:	3227
+470	435	506	435
+Startuptime:	2960
+451	437	470	435
+Startuptime:	2852
+435	436	438	459
+Startuptime:	3602
+464	478	469	433
+Startuptime:	2818
+458	434	429	444
+Startuptime:	3027
+438	470	440	434
+Startuptime:	3002
+433	470	464	431
+Startuptime:	3335
+458	434	439	439
+Startuptime:	2944
+461	434	470	462
+Startuptime:	3043
+464	464	470	462
+Startuptime:	3152
+435	454	462	431
+Startuptime:	2869
+469	443	445	444
+Startuptime:	3719
+440	439	446	438
+Startuptime:	2977
+457	500	466	471
+Startuptime:	3043
+477	459	437	437
+Startuptime:	3110
+437	434	433	433
+Startuptime:	3118
+458	432	462	509
+Startuptime:	2877
+396	474	468	475
+Startuptime:	2818
+472	432	430	462
+Startuptime:	3360
+434	438	462	432
+Startuptime:	3277
+430	441	472	503
+Startuptime:	3402
+463	463	439	463
+Startuptime:	2819
+463	437	439	463
+Startuptime:	2952
+483	444	438	463
+Startuptime:	3519
+470	438	454	473
+Startuptime:	2935
+440	460	435	430
+Startuptime:	3252
+436	433	433	462
+Startuptime:	3252
+432	482	455	433
+Startuptime:	2993
+434	458	430	426
+Startuptime:	3902
+433	465	461	424
+Startuptime:	2860
+460	437	431	430
+Startuptime:	2969
+460	461	460	450
+Startuptime:	3293
+434	441	466	472
+Startuptime:	2810
+462	438	433	465
+Startuptime:	3038
+469	438	442	432
+Startuptime:	2977
+431	461	433	439
+Startuptime:	2877
+438	434	453	438
+Startuptime:	2968
+425	457	431	428
+Startuptime:	3293
+474	441	431	461
+Startuptime:	3670
+468	435	463	442
+Startuptime:	3610
+435	475	464	475
+Startuptime:	3402
+443	462	435	428
+Startuptime:	3852
+470	465	456	457
+Startuptime:	2852
+461	435	462	436
+Startuptime:	3527
+442	441	463	433
+Startuptime:	3294
+433	433	464	452
+Startuptime:	2844
+439	459	436	439
+Startuptime:	2810
+478	436	463	439
+Startuptime:	4368
+429	437	428	436
+Startuptime:	3119
+442	458	458	452
+Startuptime:	3469
+449	461	472	468
+Startuptime:	3126
+439	433	443	441
+Startuptime:	3644
+457	435	463	432
+Startuptime:	3510
+494	469	439	442
+Startuptime:	3394
+435	464	432	468
+Startuptime:	3444
+435	472	465	429
+Startuptime:	3152
+435	474	440	478
+Startuptime:	4260
+464	470	478	439
+Startuptime:	3693
+474	440	437	476
+Startuptime:	3427
+440	459	431	423
+Startuptime:	2860
+475	445	473	496
+Startuptime:	2827
+463	441	467	470
+Startuptime:	2927
+508	438	438	471
+Startuptime:	3369
+435	432	471	437
+Startuptime:	2860
+433	475	439	439
+Startuptime:	2893
+457	436	434	467
+Startuptime:	2818
+459	469	469	467
+Startuptime:	2835
+433	465	461	435
+Startuptime:	2935
+473	434	434	471
+Startuptime:	3052
+440	432	435	438
+Startuptime:	3019
+475	482	437	437
+Startuptime:	3302
+434	466	464	460
+Startuptime:	3360
+440	462	468	432
+Startuptime:	2977
+424	428	432	462
+Startuptime:	3010
+437	466	433	433
+Startuptime:	3369
+461	469	430	476
+Startuptime:	3002
+437	434	432	432
+Startuptime:	3919
+430	456	427	456
+Startuptime:	3485
+450	442	438	445
+Startuptime:	3035
+466	457	463	469
+Startuptime:	2894
+439	476	464	435
+Startuptime:	3177
+435	432	432	467
+Startuptime:	3118
+459	432	468	455
+Startuptime:	3019
+464	431	428	439
+Startuptime:	3327
+470	473	459	433
+Startuptime:	3010
+463	458	432	438
+Startuptime:	3160
+437	431	463	457
+Startuptime:	3427
+444	463	435	440
+Startuptime:	2885
+462	469	457	432
+Startuptime:	2985
+442	470	472	437
+Startuptime:	3419
+436	459	463	451
+Startuptime:	3269
+435	456	465	459
+Startuptime:	3343
+456	430	427	436
+Startuptime:	3002
+459	469	464	457
+Startuptime:	3019
+440	462	476	429
+Startuptime:	3427
+464	437	464	429
+Startuptime:	3469
+461	435	464	478
+Startuptime:	3444
+435	500	466	459
+Startuptime:	2894
+476	442	444	444
+Startuptime:	3327
+465	397	435	436
+Startuptime:	2835
+445	462	472	441
+Startuptime:	3402
+438	441	468	470
+Startuptime:	2985
+435	436	434	455
+Startuptime:	3135
+460	459	438	438
+Startuptime:	3035
+443	460	452	466
+Startuptime:	3085
+440	469	433	432
+Startuptime:	2868
+439	438	464	478
+Startuptime:	2969
+436	467	436	468
+Startuptime:	3835
+467	427	431	463
+Startuptime:	3077
+442	438	438	442
+Startuptime:	2935
+436	435	450	465
+Startuptime:	3394
+475	437	437	461
+Startuptime:	2985
+442	472	442	436
+Startuptime:	3169
+434	439	439	435
+Startuptime:	2843
+438	439	440	436
+Startuptime:	2868
+436	433	431	476
+Startuptime:	3410
+474	476	436	435
+Startuptime:	3144
+438	443	442	442
+Startuptime:	3677
+468	457	483	482
+Startuptime:	3027
+427	467	444	432
+Startuptime:	2902
+427	436	459	455
+Startuptime:	3402
+433	434	455	461
+Startuptime:	3269
+463	474	470	468
+Startuptime:	3377
+434	430	475	432
+Startuptime:	2919
+437	461	439	436
+Startuptime:	3310
+444	477	437	475
+Startuptime:	4193
+505	439	465	458
+Startuptime:	3202
+434	440	434	425
+Startuptime:	2868
+467	459	432	471
+Startuptime:	3385
+439	442	436	462
+Startuptime:	3277
+464	433	468	473
+Startuptime:	2810
+510	463	442	442
+Startuptime:	3143
+456	433	454	431
+Startuptime:	3110
+402	451	473	481
+Startuptime:	3352
+433	435	462	426
+Startuptime:	3535
+437	438	441	460
+Startuptime:	3077
+435	467	449	474
+Startuptime:	2877
+435	470	437	436
+Startuptime:	3494
+456	429	430	432
+Startuptime:	3269
+436	434	433	465
+Startuptime:	3727
+458	424	456	471
+Startuptime:	2794
+445	438	467	435
+Startuptime:	3069
+455	464	488	462
+Startuptime:	3594
+438	466	463	444
+Startuptime:	3293
+422	454	494	450
+Startuptime:	2793
+470	434	473	443
+Startuptime:	2902
+469	454	435	435
+Startuptime:	2918
+455	455	472	499
+Startuptime:	2835
+439	437	435	439
+Startuptime:	2910
+467	448	443	448
+Startuptime:	3685
+432	462	499	434
+Startuptime:	3243
+435	434	437	473
+Startuptime:	3069
+438	436	429	467
+Startuptime:	2835
+436	438	466	467
+Startuptime:	3077
+463	504	437	434
+Startuptime:	2810
+465	466	434	477
+Startuptime:	3385
+431	473	429	453
+Startuptime:	3419
+465	462	454	435
+Startuptime:	2935
+456	438	469	441
+Startuptime:	3510
+477	504	452	467
+Startuptime:	2927
+467	430	434	430
+Startuptime:	3094
+474	435	442	459
+Startuptime:	3777
+432	437	464	438
+Startuptime:	3068
+463	472	474	434
+Startuptime:	3360
+438	449	428	454
+Startuptime:	3543
+427	435	433	458
+Startuptime:	2935
+473	479	436	438
+Startuptime:	2835
+475	436	472	435
+Startuptime:	2952
+436	436	442	431
+Startuptime:	2844
+442	477	441	440
+Startuptime:	3035
+493	467	465	458
+Startuptime:	3094
+430	457	442	460
+Startuptime:	3077
+438	432	432	442
+Startuptime:	3127
+431	458	455	429
+Startuptime:	3319
+466	438	453	461
+Startuptime:	3002
+427	454	436	452
+Startuptime:	3669
+427	424	432	455
+Startuptime:	2952
+467	434	475	454
+Startuptime:	3085
+439	428	436	468
+Startuptime:	3627
+437	436	475	436
+Startuptime:	2894
+433	430	460	433
+Startuptime:	3077
+478	439	465	464
+Startuptime:	3619
+445	437	430	428
+Startuptime:	3019
+473	471	454	442
+Startuptime:	3177
+465	463	460	431
+Startuptime:	3485
+432	440	438	466
+Startuptime:	3260
+433	471	432	438
+Startuptime:	2877
+450	460	442	467
+Startuptime:	2835
+434	472	455	458
+Startuptime:	3202
+438	444	455	466
+Startuptime:	3127
+441	485	442	468
+Startuptime:	3302
+441	443	443	462
+Startuptime:	3185
+460	472	441	463
+Startuptime:	3452
+470	442	439	470
+Startuptime:	3844
+430	431	424	458
+Startuptime:	2794
+438	464	437	439
+Startuptime:	3077
+467	504	432	441
+Startuptime:	3185
+443	431	437	497
+Startuptime:	2910
+466	469	463	448
+Startuptime:	3252
+465	469	429	465
+Startuptime:	3469
+473	440	443	444
+Startuptime:	2794
+442	441	448	470
+Startuptime:	2994
+431	436	464	463
+Startuptime:	3010
+440	436	427	433
+Startuptime:	3410
+465	468	438	432
+Startuptime:	2918
+432	432	428	428
+Startuptime:	2827
+438	437	509	434
+Startuptime:	3027
+441	438	438	441
+Startuptime:	3560
+436	469	474	458
+Startuptime:	3352
+440	464	434	439
+Startuptime:	3260
+433	461	435	435
+Startuptime:	2819
+466	468	459	466
+Startuptime:	3735
+437	463	478	463
+Startuptime:	2802
+435	435	461	439
+Startuptime:	2818
+478	444	460	442
+Startuptime:	3002
+462	470	465	435
+Startuptime:	2818
+440	458	437	443
+Startuptime:	2802
+436	435	458	472
+Startuptime:	3427
+433	465	437	438
+Startuptime:	3618
+496	455	459	459
+Startuptime:	3485
+443	470	466	476
+Startuptime:	3127
+471	464	461	462
+Startuptime:	2810
+440	433	437	456
+Startuptime:	3285
+427	459	429	459
+Startuptime:	3335
+443	468	462	461
+Startuptime:	3510
+470	436	439	436
+Startuptime:	2918
+469	461	446	485
+Startuptime:	2960
+436	460	431	436
+Startuptime:	3243
+468	466	461	436
+Startuptime:	3327
+470	459	428	432
+Startuptime:	2810
+435	465	437	434
+Startuptime:	3219
+433	432	463	464
+Startuptime:	2902
+473	510	462	468
+Startuptime:	3277
+441	437	466	436
+Startuptime:	2935
+433	460	429	467
+Startuptime:	3668
+429	430	435	430
+Startuptime:	3085
+474	475	467	474
+Startuptime:	3060
+440	469	453	436
+Startuptime:	2843
+437	436	441	456
+Startuptime:	2827
+470	440	470	437
+Startuptime:	3485
+438	474	428	437
+Startuptime:	3318
+459	431	443	440
+Startuptime:	3010
+438	441	432	473
+Startuptime:	3169
+459	437	467	436
+Startuptime:	3368
+440	431	474	428
+Startuptime:	2935
+430	433	465	462
+Startuptime:	3352
+440	445	437	476
+Startuptime:	2860
+453	474	470	446
+Startuptime:	3035
+439	437	437	436
+Startuptime:	3368
+462	441	431	443
+Startuptime:	2843
+443	436	460	471
+Startuptime:	2835
+439	465	466	435
+Startuptime:	3402
+438	459	494	458
+Startuptime:	2952
+439	440	437	462
+Startuptime:	2794
+458	476	475	440
+Startuptime:	3094
+443	439	442	440
+Startuptime:	2777
+464	467	438	455
+Startuptime:	3219
+477	440	433	473
+Startuptime:	3677
+459	431	431	431
+Startuptime:	2885
+438	473	467	442
+Startuptime:	3327
+432	429	433	449
+Startuptime:	3327
+430	454	469	451
+Startuptime:	2844
+432	442	431	439
+Startuptime:	3394
+443	489	475	474
+Startuptime:	2802
+476	480	469	462
+Startuptime:	3210
+459	442	444	439
+Startuptime:	3119
+436	438	442	461
+Startuptime:	3127
+471	434	440	441
+Startuptime:	3202
+432	455	457	465
+Startuptime:	3694
+471	433	429	437
+Startuptime:	3352
+436	440	437	430
+Startuptime:	3252
+429	435	462	433
+Startuptime:	2819
+460	459	452	462
+Startuptime:	2918
+462	442	439	442
+Startuptime:	3094
+498	446	467	438
+Startuptime:	3568
+435	467	468	424
+Startuptime:	2952
+433	438	431	438
+Startuptime:	3268
+460	472	437	437
+Startuptime:	2827
+432	436	435	433
+Startuptime:	3527
+442	434	464	435
+Startuptime:	3277
+434	463	439	430
+Startuptime:	3585
+500	433	427	459
+Startuptime:	2802
+432	458	472	468
+Startuptime:	3002
+469	435	438	434
+Startuptime:	2993
+500	436	441	439
+Startuptime:	3260
+431	430	398	459
+Startuptime:	2944
+461	456	457	433
+Startuptime:	2994
+436	429	434	434
+Startuptime:	3535
+464	445	469	460
+Startuptime:	2977
+436	434	455	436
+Startuptime:	3527
+444	470	440	468
+Startuptime:	2818
+428	432	458	427
+Startuptime:	2977
+434	459	450	459
+Startuptime:	3119
+439	470	430	459
+Startuptime:	2868
+462	458	452	472
+Startuptime:	2835
+439	441	429	459
+Startuptime:	2793
+457	464	471	432
+Startuptime:	2810
+432	466	474	437
+Startuptime:	2827
+430	430	434	431
+Startuptime:	2818
+468	465	487	468
+Startuptime:	2827
+462	468	471	436
+Startuptime:	3019
+469	434	436	465
+Startuptime:	3043
+515	436	463	474
+Startuptime:	2885
+514	480	468	478
+Startuptime:	2927
+462	440	435	433
+Startuptime:	2877
+433	438	461	467
+Startuptime:	3335
+435	425	436	436
+Startuptime:	3260
+456	436	436	437
+Startuptime:	3010
+443	458	460	467
+Startuptime:	2943
+437	434	442	432
+Startuptime:	2894
+428	433	459	457
+Startuptime:	3119
+464	478	432	442
+Startuptime:	3460
+427	427	463	430
+Startuptime:	2935
+471	435	454	433
+Startuptime:	2985
+466	435	435	435
+Startuptime:	3460
+442	466	475	458
+Startuptime:	3260
+436	460	462	438
+Startuptime:	2802
+440	434	435	433
+Startuptime:	3577
+433	428	435	432
+Startuptime:	2969
+435	435	477	474
+Startuptime:	2810
+432	442	437	440
+Startuptime:	2852
+472	439	430	467
+Startuptime:	3285
+456	429	430	495
+Startuptime:	3069
+454	464	465	440
+Startuptime:	3844
+468	432	465	461
+Startuptime:	2985
+437	435	458	458
+Startuptime:	3144
+437	436	435	453
+Startuptime:	2943
+438	459	433	427
+Startuptime:	2960
+473	441	511	470
+Startuptime:	2994
+468	464	460	470
+Startuptime:	4010
+463	457	459	437
+Startuptime:	3219
+429	467	466	462
+Startuptime:	3502
+466	465	440	435
+Startuptime:	3060
+467	439	444	473
+Startuptime:	3219
+438	463	429	469
+Startuptime:	2819
+461	439	432	471
+Startuptime:	3652
+438	432	437	433
+Startuptime:	3019
+466	451	464	436
+Startuptime:	2985
+428	452	432	467
+Startuptime:	3435
+432	436	432	460
+Startuptime:	3068
+465	438	437	436
+Startuptime:	2794
+441	441	452	474
+Startuptime:	2810
+474	441	444	464
+Startuptime:	3519
+434	452	460	430
+Startuptime:	3619
+433	440	435	470
+Startuptime:	3052
+450	438	434	461
+Startuptime:	3285
+431	437	434	466
+Startuptime:	3535
+439	435	429	428
+Startuptime:	2818
+436	435	480	431
+Startuptime:	3119
+460	436	465	463
+Startuptime:	2910
+464	433	435	433
+Startuptime:	3394
+432	466	436	439
+Startuptime:	3093
+397	456	466	427
+Startuptime:	3419
+467	443	440	440
+Startuptime:	3044
+476	439	465	463
+Startuptime:	3519
+457	447	442	439
+Startuptime:	3019
+472	440	434	434
+Startuptime:	2827
+441	463	435	470
+Startuptime:	3077
+439	442	436	460
+Startuptime:	2777
+435	436	464	465
+Startuptime:	3369
+439	477	431	431
+Startuptime:	2810
+441	447	444	439
+Startuptime:	3144
+467	462	446	446
+Startuptime:	3752
+437	438	439	437
+Startuptime:	3619
+434	439	430	430
+Startuptime:	3069
+441	438	439	438
+Startuptime:	3044
+430	466	461	428
+Startuptime:	3343
+426	457	450	460
+Startuptime:	3077
+499	436	432	427
+Startuptime:	3343
+456	466	467	482
+Startuptime:	3810
+441	434	442	468
+Startuptime:	3519
+475	461	478	438
+Startuptime:	3060
+469	434	431	429
+Startuptime:	3144
+435	479	436	441
+Startuptime:	3210
+429	435	461	432
+Startuptime:	2952
+436	434	440	441
+Startuptime:	3102
+468	442	435	463
+Startuptime:	3560
+437	441	437	439
+Startuptime:	3160
+457	460	487	471
+Startuptime:	3118
+438	467	464	436
+Startuptime:	3560
+449	442	433	462
+Startuptime:	3085
+462	437	471	470
+Startuptime:	3719
+469	445	439	438
+Startuptime:	3510
+444	461	441	468
+Startuptime:	2985
+435	459	460	437
+Startuptime:	3252
+438	437	449	473
+Startuptime:	3552
+441	442	441	434
+Startuptime:	2810
+436	429	477	437
+Startuptime:	3310
+435	498	464	473
+Startuptime:	2868
+462	457	462	429
+Startuptime:	3018
+472	467	467	466
+Startuptime:	3044
+460	467	436	466
+Startuptime:	3202
+446	469	451	434
+Startuptime:	3285
+427	427	455	423
+Startuptime:	3193
+434	470	439	459
+Startuptime:	2935
+440	433	457	456
+Startuptime:	2777
+478	443	470	468
+Startuptime:	2968
+484	445	440	476
+Startuptime:	3485
+465	458	433	431
+Startuptime:	3052
+434	435	433	435
+Startuptime:	3035
+467	467	437	460
+Startuptime:	3268
+466	456	430	433
+Startuptime:	3152
+459	429	436	441
+Startuptime:	3144
+437	432	433	440
+Startuptime:	2810
+441	476	432	463
+Startuptime:	2843
+463	437	468	469
+Startuptime:	2802
+469	433	427	440
+Startuptime:	3202
+432	441	441	512
+Startuptime:	3319
+426	455	467	430
+Startuptime:	3019
+442	458	437	434
+Startuptime:	3477
+478	431	432	428
+Startuptime:	3260
+458	434	453	461
+Startuptime:	2935
+440	455	432	431
+Startuptime:	4177
+427	460	465	432
+Startuptime:	3469
+460	432	431	433
+Startuptime:	2852
+442	440	460	506
+Startuptime:	3127
+471	467	460	434
+Startuptime:	2894
+468	451	443	446
+Startuptime:	3293
+462	441	459	439
+Startuptime:	2994
+434	435	437	465

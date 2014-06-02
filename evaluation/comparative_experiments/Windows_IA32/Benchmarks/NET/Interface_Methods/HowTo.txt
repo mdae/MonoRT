@@ -1,0 +1,30 @@
+Build executable from source code: (example)
+=================================
+
+$: csc /out:C:\Users\dev\Interface_Methods\1000InterfaceMethods.exe C:\Users\dev\Interface_Methods\1000InterfaceMethods.cs
+
+Run benchmark in Reflection mode:
+=================================
+
+$: cd C:\Users\dev\Interface_Methods\
+
+- Ensure that the assembly 'AssemblyPrepare.exe' is in the working directory
+
+$: start /B /realtime /wait AssemblyPrepare.exe C:\Users\dev\Interface_Methods\1000InterfaceMethods.exe %time% %date%
+
+
+AOT compilation:
+================
+
+$: ngen install C:\Users\dev\Interface_Methods\1000InterfaceMethods.exe
+
+Run benchmark in AOT mode:
+==========================
+
+$: cd C:\Users\dev\Interface_Methods\
+$: start /B /realtime /wait 1000InterfaceMethods.exe %time% %date%
+
+Remove assembly from AOT cache:
+===============================
+
+$: ngen uninstall C:\Users\dev\Interface_Methods\1000InterfaceMethods.exe

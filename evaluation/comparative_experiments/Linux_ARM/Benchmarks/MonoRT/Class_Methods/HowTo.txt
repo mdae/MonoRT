@@ -1,0 +1,21 @@
+Build executable from source code:
+==================================
+
+$: cd /your/path/Class_Methods/
+$: mcs 1000ClassMethods.cs
+
+Full-AOT compilation:
+=====================
+
+$: mono --aot=full -O=-inline /your/path/Class_Methods/1000ClassMethods.exe
+$: mono --aot=full -O=-inline /path/to/monort/lib/mono/1.0/mscorlib.dll
+
+Run benchmark:
+==============
+
+- Ensure that the library 'MonoRT.dll' and the timer library 'libtimer.so'
+  are in the working directory
+
+- Full-AOT mode:
+
+$: chrt 79 mono -O=-inline --full-aot 1000ClassMethods.exe results_FullAOT.txt $(date +%s::%N)

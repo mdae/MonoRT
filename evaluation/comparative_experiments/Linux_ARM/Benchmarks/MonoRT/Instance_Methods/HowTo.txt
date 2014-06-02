@@ -1,0 +1,89 @@
+Build executable from source code:
+==================================
+
+$: cd /your/path/Instance_Methods/
+$: mcs 1000Methods.cs
+
+Full-AOT compilation:
+=====================
+
+$: mono --aot=full -O=-inline /your/path/Instance_Methods/1000Methods.exe
+$: mono --aot=full -O=-inline /path/to/monort/lib/mono/1.0/mscorlib.dll
+
+Run benchmark:
+==============
+
+- Ensure that the library 'MonoRT.dll' and the timer library 'libtimer.so'
+  are in the working directory
+
+- JIT mode:
+
+$: chrt 79 mono -O=-inline,-aot 1000Methods.exe results_JIT.txt $(date +%s::%N)
+
+- Full-AOT mode:
+
+$: chrt 79 mono -O=-inline --full-aot 1000Methods.exe results_FullAOT.txt $(date +%s::%N)
+
+- Pre-Compilation mode:
+
+$: chrt 79 mono -O=-inline,-aot --prejit 1000Methods.exe results_PreCompilation.txt $(date +%s::%N)
+
+
+Create reduced set:
+===================
+
+-  Create a reduced set of the application and the core library in
+   directory 'outDir'. Do not include region specific assemblies
+   (option '-l none')
+
+$: cd /your/path/Instance_Methods/
+$: mkdir reducedSet
+$: monolinker -out reducedSet/ -c link -l none -a 1000Methods.exe
+
+Full-AOT compilation of reduced set:
+====================================
+
+$: cd /your/path/Instance_Methods/reducedSet/
+$: export MONO_PATH=.
+$: mono --aot=full -O=-inline 1000Methods.exe
+$: mono --aot=full -O=-inline mscorlib.dll
+
+Run benchmark of reduced set:
+=============================
+
+- The benchmarks are run like described above. Ensure that the
+environment variable MONO_PATH is set to the directory which
+includes the reduces core library, e.g., the working directory.
+
+
+Take checkpoint of application after Pre-Compilation:
+=====================================================
+
+- Ensure that the tool 'CRIU' is installed and works proberly.
+
+$: cd /your/path/Instance_Methods/
+$: mkdir images
+$: mcs 1000Methods-restore.cs
+$: chrt 79 mono -O=-inline,-aot --prejit --wait 1000Methods-restore.exe results_PreCompilation_restored.txt
+
+- The application waits 30 seconds after the pre-compilation finished before it continues executing the
+  application. The checkpoint has to be taken during this time by issuing the folowing command, where
+  PID is the process ID of the application:
+
+$: criu dump -t PID -D images/ --shell-job --ext-unix-sk
+
+- The tool 'CRIU' stores the snapshot images of the process in the directory
+  'images'. It might be necessary to copy volatile shared data from ..... into that
+  directory.
+
+Restore the application:
+========================
+
+- The MonoRT process is restored by issuing the follwing commands:
+
+$: cd /your/path/Instance_Methods/
+$: date +%s::%N > starttime.txt; criu restore -D images/ --shell-job --ext-unix-sk
+
+- It is necessary to store the restore-time in file 'starttime.txt'  in order to
+  determine the startup time in case of restore. It is necessary to copy the
+  shared data files from directory 'images' to ... before restoring the process.

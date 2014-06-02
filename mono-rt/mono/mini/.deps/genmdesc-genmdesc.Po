@@ -1,0 +1,517 @@
+genmdesc-genmdesc.o: genmdesc.c mini.h ../../config.h \
+ /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
+ /usr/include/glib-2.0/glib/gtypes.h \
+ /usr/lib/glib-2.0/include/glibconfig.h \
+ /usr/include/glib-2.0/glib/gmacros.h \
+ /usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h \
+ /usr/lib/gcc/i486-linux-gnu/4.4.3/include-fixed/limits.h \
+ /usr/lib/gcc/i486-linux-gnu/4.4.3/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/features.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+ /usr/include/bits/stdio_lim.h \
+ /usr/lib/gcc/i486-linux-gnu/4.4.3/include/float.h \
+ /usr/include/glib-2.0/glib/garray.h \
+ /usr/include/glib-2.0/glib/gasyncqueue.h \
+ /usr/include/glib-2.0/glib/gthread.h /usr/include/glib-2.0/glib/gerror.h \
+ /usr/lib/gcc/i486-linux-gnu/4.4.3/include/stdarg.h \
+ /usr/include/glib-2.0/glib/gquark.h /usr/include/glib-2.0/glib/gutils.h \
+ /usr/include/glib-2.0/glib/gatomic.h \
+ /usr/include/glib-2.0/glib/gbacktrace.h /usr/include/signal.h \
+ /usr/include/bits/sigset.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/signum.h \
+ /usr/include/time.h /usr/include/bits/siginfo.h \
+ /usr/include/bits/sigaction.h /usr/include/bits/sigcontext.h \
+ /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/sigthread.h \
+ /usr/include/glib-2.0/glib/gbase64.h \
+ /usr/include/glib-2.0/glib/gbitlock.h \
+ /usr/include/glib-2.0/glib/gbookmarkfile.h /usr/include/bits/time.h \
+ /usr/include/xlocale.h /usr/include/glib-2.0/glib/gcache.h \
+ /usr/include/glib-2.0/glib/glist.h /usr/include/glib-2.0/glib/gmem.h \
+ /usr/include/glib-2.0/glib/gslice.h \
+ /usr/include/glib-2.0/glib/gchecksum.h \
+ /usr/include/glib-2.0/glib/gcompletion.h \
+ /usr/include/glib-2.0/glib/gconvert.h \
+ /usr/include/glib-2.0/glib/gdataset.h /usr/include/glib-2.0/glib/gdate.h \
+ /usr/include/glib-2.0/glib/gdir.h \
+ /usr/include/glib-2.0/glib/gfileutils.h \
+ /usr/include/glib-2.0/glib/ghash.h /usr/include/glib-2.0/glib/ghook.h \
+ /usr/include/glib-2.0/glib/ghostutils.h \
+ /usr/include/glib-2.0/glib/giochannel.h \
+ /usr/include/glib-2.0/glib/gmain.h /usr/include/glib-2.0/glib/gpoll.h \
+ /usr/include/glib-2.0/glib/gslist.h /usr/include/glib-2.0/glib/gstring.h \
+ /usr/include/glib-2.0/glib/gunicode.h \
+ /usr/include/glib-2.0/glib/gkeyfile.h \
+ /usr/include/glib-2.0/glib/gmappedfile.h \
+ /usr/include/glib-2.0/glib/gmarkup.h \
+ /usr/include/glib-2.0/glib/gmessages.h \
+ /usr/include/glib-2.0/glib/gnode.h /usr/include/glib-2.0/glib/goption.h \
+ /usr/include/glib-2.0/glib/gpattern.h \
+ /usr/include/glib-2.0/glib/gprimes.h /usr/include/glib-2.0/glib/gqsort.h \
+ /usr/include/glib-2.0/glib/gqueue.h /usr/include/glib-2.0/glib/grand.h \
+ /usr/include/glib-2.0/glib/grel.h /usr/include/glib-2.0/glib/gregex.h \
+ /usr/include/glib-2.0/glib/gscanner.h \
+ /usr/include/glib-2.0/glib/gsequence.h \
+ /usr/include/glib-2.0/glib/gshell.h /usr/include/glib-2.0/glib/gspawn.h \
+ /usr/include/glib-2.0/glib/gstrfuncs.h \
+ /usr/include/glib-2.0/glib/gtestutils.h \
+ /usr/include/glib-2.0/glib/gthreadpool.h \
+ /usr/include/glib-2.0/glib/gtimer.h /usr/include/glib-2.0/glib/gtree.h \
+ /usr/include/glib-2.0/glib/gurifuncs.h \
+ /usr/include/glib-2.0/glib/gvarianttype.h \
+ /usr/include/glib-2.0/glib/gvariant.h ../../mono/metadata/loader.h \
+ ../../mono/metadata/metadata.h ../../mono/metadata/blob.h \
+ ../../mono/metadata/row-indexes.h ../../mono/metadata/image.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h /usr/include/bits/sys_errlist.h \
+ ../../mono/metadata/mempool.h ../../mono/utils/monobitset.h \
+ ../../mono/metadata/class.h ../../mono/metadata/object.h \
+ ../../mono/metadata/opcodes.h ../../mono/cil/opcode.def \
+ ../../mono/metadata/tabledefs.h ../../mono/metadata/domain-internals.h \
+ ../../mono/metadata/appdomain.h ../../mono/metadata/reflection.h \
+ ../../mono/metadata/lock-tracer.h ../../mono/utils/mono-compiler.h \
+ ../../mono/utils/mono-codeman.h ../../mono/utils/mono-hash.h \
+ ../../mono/utils/mono-internal-hash.h ../../mono/io-layer/io-layer.h \
+ ../../mono/io-layer/wapi.h ../../mono/io-layer/types.h \
+ ../../mono/io-layer/macros.h ../../mono/io-layer/handles.h \
+ ../../mono/io-layer/io.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/sys/sysmacros.h /usr/include/alloca.h \
+ ../../mono/io-layer/timefuncs.h ../../mono/io-layer/access.h \
+ ../../mono/io-layer/atomic.h ../../mono/io-layer/context.h \
+ ../../mono/io-layer/critical-sections.h /usr/include/pthread.h \
+ /usr/include/sched.h /usr/include/bits/sched.h \
+ /usr/include/bits/setjmp.h ../../mono/io-layer/mono-mutex.h \
+ ../../mono/io-layer/error.h ../../mono/io-layer/events.h \
+ ../../mono/io-layer/messages.h ../../mono/io-layer/mutexes.h \
+ ../../mono/io-layer/processes.h ../../mono/io-layer/versioninfo.h \
+ ../../mono/io-layer/security.h ../../mono/io-layer/semaphores.h \
+ ../../mono/io-layer/sockets.h ../../mono/io-layer/status.h \
+ ../../mono/io-layer/system.h ../../mono/io-layer/threads.h \
+ ../../mono/io-layer/wait.h ../../mono/io-layer/uglify.h \
+ ../../mono/metadata/class-internals.h ../../mono/utils/mono-error.h \
+ ../../mono/utils/mono-compiler.h ../../mono/metadata/wrapper-types.h \
+ ../../mono/metadata/object-internals.h ../../mono/metadata/threads.h \
+ ../../mono/utils/mono-membar.h ../../mono/metadata/profiler-private.h \
+ ../../mono/metadata/profiler.h ../../mono/metadata/debug-helpers.h \
+ mini-arch.h mini-x86.h ../../mono/arch/x86/x86-codegen.h \
+ /usr/include/assert.h ../../mono/utils/mono-sigcontext.h regalloc.h \
+ declsec.h /usr/include/string.h ../../mono/metadata/marshal.h \
+ ../../mono/metadata/method-builder.h \
+ ../../mono/metadata/security-manager.h ../../mono/metadata/object.h \
+ ../../mono/metadata/metadata-internals.h ../../mono/utils/mono-dl.h \
+ ../../mono/utils/mono-property-hash.h ../../mono/utils/mono-value-hash.h \
+ ../../mono/metadata/domain-internals.h ../../mono/metadata/tokentype.h \
+ ../../mono/metadata/threads.h ../../mono/metadata/marshal.h \
+ ../../mono/metadata/image.h ../../mono/metadata/reflection.h \
+ ../../mono/metadata/tabledefs.h ../../mono/metadata/exception.h unwind.h \
+ patch-info.h optflags-def.h mini-ops.h /usr/include/ctype.h
+
+mini.h:
+
+../../config.h:
+
+/usr/include/glib-2.0/glib.h:
+
+/usr/include/glib-2.0/glib/galloca.h:
+
+/usr/include/glib-2.0/glib/gtypes.h:
+
+/usr/lib/glib-2.0/include/glibconfig.h:
+
+/usr/include/glib-2.0/glib/gmacros.h:
+
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stddef.h:
+
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include-fixed/limits.h:
+
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/predefs.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/float.h:
+
+/usr/include/glib-2.0/glib/garray.h:
+
+/usr/include/glib-2.0/glib/gasyncqueue.h:
+
+/usr/include/glib-2.0/glib/gthread.h:
+
+/usr/include/glib-2.0/glib/gerror.h:
+
+/usr/lib/gcc/i486-linux-gnu/4.4.3/include/stdarg.h:
+
+/usr/include/glib-2.0/glib/gquark.h:
+
+/usr/include/glib-2.0/glib/gutils.h:
+
+/usr/include/glib-2.0/glib/gatomic.h:
+
+/usr/include/glib-2.0/glib/gbacktrace.h:
+
+/usr/include/signal.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/bits/signum.h:
+
+/usr/include/time.h:
+
+/usr/include/bits/siginfo.h:
+
+/usr/include/bits/sigaction.h:
+
+/usr/include/bits/sigcontext.h:
+
+/usr/include/bits/sigstack.h:
+
+/usr/include/sys/ucontext.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/bits/sigthread.h:
+
+/usr/include/glib-2.0/glib/gbase64.h:
+
+/usr/include/glib-2.0/glib/gbitlock.h:
+
+/usr/include/glib-2.0/glib/gbookmarkfile.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/glib-2.0/glib/gcache.h:
+
+/usr/include/glib-2.0/glib/glist.h:
+
+/usr/include/glib-2.0/glib/gmem.h:
+
+/usr/include/glib-2.0/glib/gslice.h:
+
+/usr/include/glib-2.0/glib/gchecksum.h:
+
+/usr/include/glib-2.0/glib/gcompletion.h:
+
+/usr/include/glib-2.0/glib/gconvert.h:
+
+/usr/include/glib-2.0/glib/gdataset.h:
+
+/usr/include/glib-2.0/glib/gdate.h:
+
+/usr/include/glib-2.0/glib/gdir.h:
+
+/usr/include/glib-2.0/glib/gfileutils.h:
+
+/usr/include/glib-2.0/glib/ghash.h:
+
+/usr/include/glib-2.0/glib/ghook.h:
+
+/usr/include/glib-2.0/glib/ghostutils.h:
+
+/usr/include/glib-2.0/glib/giochannel.h:
+
+/usr/include/glib-2.0/glib/gmain.h:
+
+/usr/include/glib-2.0/glib/gpoll.h:
+
+/usr/include/glib-2.0/glib/gslist.h:
+
+/usr/include/glib-2.0/glib/gstring.h:
+
+/usr/include/glib-2.0/glib/gunicode.h:
+
+/usr/include/glib-2.0/glib/gkeyfile.h:
+
+/usr/include/glib-2.0/glib/gmappedfile.h:
+
+/usr/include/glib-2.0/glib/gmarkup.h:
+
+/usr/include/glib-2.0/glib/gmessages.h:
+
+/usr/include/glib-2.0/glib/gnode.h:
+
+/usr/include/glib-2.0/glib/goption.h:
+
+/usr/include/glib-2.0/glib/gpattern.h:
+
+/usr/include/glib-2.0/glib/gprimes.h:
+
+/usr/include/glib-2.0/glib/gqsort.h:
+
+/usr/include/glib-2.0/glib/gqueue.h:
+
+/usr/include/glib-2.0/glib/grand.h:
+
+/usr/include/glib-2.0/glib/grel.h:
+
+/usr/include/glib-2.0/glib/gregex.h:
+
+/usr/include/glib-2.0/glib/gscanner.h:
+
+/usr/include/glib-2.0/glib/gsequence.h:
+
+/usr/include/glib-2.0/glib/gshell.h:
+
+/usr/include/glib-2.0/glib/gspawn.h:
+
+/usr/include/glib-2.0/glib/gstrfuncs.h:
+
+/usr/include/glib-2.0/glib/gtestutils.h:
+
+/usr/include/glib-2.0/glib/gthreadpool.h:
+
+/usr/include/glib-2.0/glib/gtimer.h:
+
+/usr/include/glib-2.0/glib/gtree.h:
+
+/usr/include/glib-2.0/glib/gurifuncs.h:
+
+/usr/include/glib-2.0/glib/gvarianttype.h:
+
+/usr/include/glib-2.0/glib/gvariant.h:
+
+../../mono/metadata/loader.h:
+
+../../mono/metadata/metadata.h:
+
+../../mono/metadata/blob.h:
+
+../../mono/metadata/row-indexes.h:
+
+../../mono/metadata/image.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/bits/sys_errlist.h:
+
+../../mono/metadata/mempool.h:
+
+../../mono/utils/monobitset.h:
+
+../../mono/metadata/class.h:
+
+../../mono/metadata/object.h:
+
+../../mono/metadata/opcodes.h:
+
+../../mono/cil/opcode.def:
+
+../../mono/metadata/tabledefs.h:
+
+../../mono/metadata/domain-internals.h:
+
+../../mono/metadata/appdomain.h:
+
+../../mono/metadata/reflection.h:
+
+../../mono/metadata/lock-tracer.h:
+
+../../mono/utils/mono-compiler.h:
+
+../../mono/utils/mono-codeman.h:
+
+../../mono/utils/mono-hash.h:
+
+../../mono/utils/mono-internal-hash.h:
+
+../../mono/io-layer/io-layer.h:
+
+../../mono/io-layer/wapi.h:
+
+../../mono/io-layer/types.h:
+
+../../mono/io-layer/macros.h:
+
+../../mono/io-layer/handles.h:
+
+../../mono/io-layer/io.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/alloca.h:
+
+../../mono/io-layer/timefuncs.h:
+
+../../mono/io-layer/access.h:
+
+../../mono/io-layer/atomic.h:
+
+../../mono/io-layer/context.h:
+
+../../mono/io-layer/critical-sections.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/bits/setjmp.h:
+
+../../mono/io-layer/mono-mutex.h:
+
+../../mono/io-layer/error.h:
+
+../../mono/io-layer/events.h:
+
+../../mono/io-layer/messages.h:
+
+../../mono/io-layer/mutexes.h:
+
+../../mono/io-layer/processes.h:
+
+../../mono/io-layer/versioninfo.h:
+
+../../mono/io-layer/security.h:
+
+../../mono/io-layer/semaphores.h:
+
+../../mono/io-layer/sockets.h:
+
+../../mono/io-layer/status.h:
+
+../../mono/io-layer/system.h:
+
+../../mono/io-layer/threads.h:
+
+../../mono/io-layer/wait.h:
+
+../../mono/io-layer/uglify.h:
+
+../../mono/metadata/class-internals.h:
+
+../../mono/utils/mono-error.h:
+
+../../mono/utils/mono-compiler.h:
+
+../../mono/metadata/wrapper-types.h:
+
+../../mono/metadata/object-internals.h:
+
+../../mono/metadata/threads.h:
+
+../../mono/utils/mono-membar.h:
+
+../../mono/metadata/profiler-private.h:
+
+../../mono/metadata/profiler.h:
+
+../../mono/metadata/debug-helpers.h:
+
+mini-arch.h:
+
+mini-x86.h:
+
+../../mono/arch/x86/x86-codegen.h:
+
+/usr/include/assert.h:
+
+../../mono/utils/mono-sigcontext.h:
+
+regalloc.h:
+
+declsec.h:
+
+/usr/include/string.h:
+
+../../mono/metadata/marshal.h:
+
+../../mono/metadata/method-builder.h:
+
+../../mono/metadata/security-manager.h:
+
+../../mono/metadata/object.h:
+
+../../mono/metadata/metadata-internals.h:
+
+../../mono/utils/mono-dl.h:
+
+../../mono/utils/mono-property-hash.h:
+
+../../mono/utils/mono-value-hash.h:
+
+../../mono/metadata/domain-internals.h:
+
+../../mono/metadata/tokentype.h:
+
+../../mono/metadata/threads.h:
+
+../../mono/metadata/marshal.h:
+
+../../mono/metadata/image.h:
+
+../../mono/metadata/reflection.h:
+
+../../mono/metadata/tabledefs.h:
+
+../../mono/metadata/exception.h:
+
+unwind.h:
+
+patch-info.h:
+
+optflags-def.h:
+
+mini-ops.h:
+
+/usr/include/ctype.h:

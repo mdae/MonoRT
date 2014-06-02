@@ -1,0 +1,45 @@
+Build class files from source code:
+===================================
+
+$: javac -Xrealtime NHRT1000ClassMethodsStaticVarCctor.java
+
+Create JAR-archive:
+===================
+
+$: jar -cvf NHRT1000ClassMethodsStaticVarCctor.jar *.class
+
+Build JNI header for timer library:
+===================================
+
+$: javah NHRT1000ClassMethodsStaticVarCctor
+
+Build timer library:
+====================
+
+- Edit the file 'timer.c', so that it includes the header
+file 'NHRT1000ClassMethodsStaticVarCctor.h'. Ensure that the function name matches
+that in the header file.
+
+- Edit the Makefile so that it includes the correct path to
+the installation of IBM WebSphere and run the Makefile.
+
+Build the shared cache (AOT compilation):
+=========================================
+
+$: admincache -Xrealtime -populate -noisy -aot /your/path/Type_Initializer/NHRT1000ClassMethodsStaticVarCctor.jar -cacheName NHRT1000ClassMethodsStaticVarCctorCache -classpath /your/path/Type_Initializer/NHRT1000ClassMethodsStaticVarCctor.jar -printvmargs
+
+Run benchmark:
+==============
+
+- Ensure that the environment variable PATH includes IBM WebSphere, e.g., by issuing
+
+$: export LD_LIBRARY_PATH=.
+$: export PATH=/path/to/WebSphere/ibm/ibm-wrt-i386-60/jre/bin:/ath/to/WebSphere/ibm/ibm-wrt-i386-60/bin:$PATH 
+
+- JIT mode:
+
+$: chrt 79 java -Xrealtime -classpath /your/path/Type_Initializer/NHRT1000ClassMethodsStaticVarCctor.jar NHRT1000ClassMethodsStaticVarCctor $(date +%s::%N)
+
+- AOT mode:
+
+chrt 79 java -Xrealtime -Xshareclasses:name=NHRT1000ClassMethodsStaticVarCctorCache -classpath /your/path/Type_Initializer/NHRT1000ClassMethodsStaticVarCctor.jar -Xaot NHRT1000ClassMethodsStaticVarCctor $(date +%s::%N)

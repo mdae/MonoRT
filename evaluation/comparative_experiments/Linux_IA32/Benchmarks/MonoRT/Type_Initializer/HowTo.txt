@@ -1,0 +1,37 @@
+Build executable from source code:
+==================================
+
+$: cd /your/path/Type_Initializer/
+$: mcs 1000ClassMethodsStaticVarCctor.cs
+
+AOT compilation:
+================
+
+$: mono --aot -O=-inline /your/path/Type_Initializer/1000ClassMethodsStaticVarCctor.exe
+$: mono --aot -O=-inline /path/to/monort/lib/mono/1.0/mscorlib.dll
+
+Run benchmark:
+==============
+
+- Ensure that the library 'MonoRT.dll' and the timer library 'libtimer.so'
+  are in the working directory
+
+- JIT mode:
+
+$: chrt 79 mono -O=-inline,-aot 1000ClassMethodsStaticVarCctor.exe results_JIT.txt $(date +%s::%N)
+
+- AOT mode:
+
+$: chrt 79 mono -O=-inline,aot 1000ClassMethodsStaticVarCctor.exe results_AOT.txt $(date +%s::%N)
+
+- Pre-Compilation mode:
+
+$: chrt 79 mono -O=-inline,-aot --prejit 1000ClassMethodsStaticVarCctor.exe results_PreCompilation.txt $(date +%s::%N)
+
+- JIT-based Pre-Patch mode:
+
+$: chrt 79 mono -O=-inline,-aot --prepatch 1000ClassMethodsStaticVarCctor.exe results_JIT_PrePatch.txt $(date +%s::%N)
+
+- AOT-based Pre-Patch mode:
+
+$: chrt 79 mono -O=-inline,aot --prepatch 1000ClassMethodsStaticVarCctor.exe results_AOT_PrePatch.txt $(date +%s::%N)

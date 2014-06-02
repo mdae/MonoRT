@@ -1,0 +1,7 @@
+#! /bin/sh
+r='/home/dev/Desktop/mono-rt'
+MONO_CFG_DIR='/home/dev/Desktop/mono-rt/runtime/etc'
+PATH="$r/runtime/_tmpinst/bin:$PATH"
+MONO_SHARED_DIR=$r/runtime
+export MONO_CFG_DIR MONO_SHARED_DIR PATH
+exec "$r/libtool" --mode=execute "$r/mono/mini/mono" --config "/home/dev/Desktop/mono-rt/runtime/etc/mono/config" "$@"
