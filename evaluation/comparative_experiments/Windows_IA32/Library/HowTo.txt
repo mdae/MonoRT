@@ -1,0 +1,4 @@
+Build library from source code: (example)
+===============================
+
+$: csc /out:C:\Users\dev\Library\AssemblyPrepare.exe C:\Users\dev\Library\AssemblyPrepare.cs
